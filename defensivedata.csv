@@ -1,0 +1,852 @@
+"","Name","Season","Apps","Mins","Tackles","Inter","Fouls","Offsides","Clear","Drb","Blocks","OwnG","Rating","Team.x","Meta","Team.y","Cost"
+"277","Alex Bruce",2013,"19(1)",1594,1.7,1.3,0.6,0.4,5.5,0.5,0.9,0,6.66,"Hull","D(C)","hull-city",638000
+"278","Alex Bruce",2014,"17(5)",1450,1,1.1,0.6,0.4,6.7,0.4,1,0,6.79,"Hull","D(C)","hull-city",850000
+"279","Alex Pearce",2012,"18(1)",1645,0.8,1.2,0.7,0.6,8.9,0.1,1.1,0,6.77,"Reading","D(C)",NA,NA
+"280","Andre Bikey",2009,"26(2)",2190,1.9,2,1.8,0.6,3.9,0.8,0.5,0,6.77,"Burnley","D(C)",NA,NA
+"281","Angelo Ogbonna",2015,"27(1)",2328,1.5,1.8,0.8,0.6,5.8,0.3,0.7,0,6.86,"West Ham","D(C)","west-ham-united",8500000
+"282","Anthony Gardner",2009,"24",2160,1.8,1.9,0.8,0.6,9.8,0.2,0.9,1,6.79,"Hull","D(C)","hull-city",680000
+"283","Antolin Alcaraz",2010,"34",3029,3.8,3.5,0.7,0.7,8.3,0.7,0.7,0,7.42,"Wigan","D(C)",NA,NA
+"284","Antolin Alcaraz",2011,"25",2174,2.4,2.6,1.3,0.5,5.1,1,0.5,0,6.89,"Wigan","D(C)",NA,NA
+"285","Anton Ferdinand",2009,"19(5)",1776,1.3,1.8,0.4,0.3,8.4,0.3,0.8,1,6.83,"Sunderland","D(C)","sunderland-afc",5100000
+"286","Anton Ferdinand",2010,"23(4)",2089,1.6,2.1,0.8,0.8,8,0.3,0.6,1,6.9,"Sunderland","D(C)","sunderland-afc",4250000
+"287","Anton Ferdinand",2011,"31",2750,1.4,1.7,0.7,0.7,10,0.3,0.8,0,6.75,"Queens Park Rangers","D(C)","sunderland-afc",3830000
+"288","Ashley Williams",2011,"37",3330,1.5,2.2,1.1,0.4,8,0.2,1.1,0,7,"Swansea","D(C)","swansea-city",850000
+"289","Ashley Williams",2012,"37",3330,1.1,3,1.1,0.6,10.4,0.2,1.4,0,7.1,"Swansea","D(C)","swansea-city",3400000
+"290","Ashley Williams",2013,"34",3040,1.6,2.4,0.9,0.6,9.2,0.4,1.1,0,7.23,"Swansea","D(C)","swansea-city",5100000
+"291","Ashley Williams",2014,"37",3330,1.2,2.8,0.8,0.5,10,0.5,1.1,0,7.23,"Swansea","D(C)","swansea-city",6800000
+"292","Ashley Williams",2015,"36",3240,1.9,2.8,0.8,0.6,8.7,0.4,1.2,0,7.19,"Swansea","D(C)","swansea-city",5530000
+"293","Ben Turner",2013,"30(1)",2721,1.2,1.2,0.8,0.9,9.4,0.4,1.1,0,6.95,"Cardiff","D(C)",NA,NA
+"294","Brede Hangeland",2009,"32",2809,1.5,1.5,0.8,1.1,9.9,0.3,0.6,0,7.2,"Fulham","D(C)",NA,NA
+"295","Brede Hangeland",2010,"37",3330,1.6,2.2,1.1,0.6,11.4,0.6,1.1,2,7.39,"Fulham","D(C)",NA,NA
+"296","Brede Hangeland",2011,"38",3420,1.4,2.1,0.7,0.8,6.9,0.3,1,0,6.95,"Fulham","D(C)",NA,NA
+"297","Brede Hangeland",2012,"35",3046,1.4,2.5,0.8,0.5,9.6,0.7,1.2,0,7.17,"Fulham","D(C)",NA,NA
+"298","Brede Hangeland",2013,"23",1908,1,1.6,0.4,0.3,8,0.5,0.7,0,6.83,"Fulham","D(C)",NA,NA
+"299","Carlos Cuellar",2009,"36",3240,3.7,2,0.9,0.3,8.3,1,0.8,0,7.48,"Aston Villa","D(C)",NA,NA
+"300","Carlos Cuellar",2011,"17(1)",1494,3.8,2.9,0.7,0.3,5.4,0.6,0.9,0,7.05,"Aston Villa","D(C)",NA,NA
+"301","Carlos Cuellar",2012,"26",2259,2.9,1.8,0.5,0.7,9.2,0.5,1,1,7.16,"Sunderland","D(C)",NA,NA
+"302","Carlos Salcido",2010,"22(1)",1904,2.6,1.7,0.8,0.2,3.6,1.5,0.3,0,6.91,"Fulham","D(C)",NA,NA
+"303","Chico Flores",2012,"26",2241,3.3,3.5,1.4,0.6,8.7,0.9,0.7,0,7.49,"Swansea","D(C)",NA,NA
+"304","Chico Flores",2013,"30(1)",2690,2.5,3,1.3,0.6,6.6,1,0.5,1,7.25,"Swansea","D(C)",NA,NA
+"305","Chris Herd",2011,"19",1476,2.2,1.9,1.2,0.1,2.3,0.8,0.6,0,6.81,"Aston Villa","D(C)",NA,NA
+"306","Christophe Berra",2009,"32",2836,2,1.3,1.6,1,10.6,0.3,0.7,0,7.06,"Wolverhampton Wanderers","D(C)",NA,NA
+"307","Christophe Berra",2010,"31(1)",2790,1.6,1.8,1.4,1.6,8.7,0.5,0.8,0,6.81,"Wolverhampton Wanderers","D(C)",NA,NA
+"308","Christophe Berra",2011,"29(3)",2699,1.7,1.4,1.3,1,7.8,0.4,0.9,0,6.62,"Wolverhampton Wanderers","D(C)",NA,NA
+"309","Christopher Samba",2009,"30",2597,2,1.7,1.5,0.8,11.5,0.4,0.8,0,7.55,"Blackburn","D(C)",NA,NA
+"310","Christopher Samba",2010,"33",2883,1.5,2.1,1.2,0.8,10.9,0.2,1.2,0,7.33,"Blackburn","D(C)",NA,NA
+"311","Curtis Davies",2013,"37",3326,2,2.8,0.7,0.5,8.8,0.8,0.9,0,7.4,"Hull","D(C)","hull-city",2980000
+"312","Curtis Davies",2014,"21",1815,1.7,3.1,0.7,0.4,10,0.8,0.9,0,7.32,"Hull","D(C)","hull-city",3400000
+"313","Curtis Davies",2016,"13",1170,1.5,4.2,0.5,0.2,8.2,0.2,1.7,0,7.25,"Hull","D(C)","hull-city",2980000
+"314","Damien Delaney",2013,"37",3286,1.9,2.3,0.7,0.5,9.2,0.7,0.9,1,7.15,"Crystal Palace","D(C)","crystal-palace",425000
+"315","Damien Delaney",2014,"28(1)",2435,1.4,1.7,0.5,0.2,8.2,0.6,0.7,0,6.89,"Crystal Palace","D(C)","crystal-palace",850000
+"316","Damien Delaney",2015,"32",2880,1,1.8,0.6,0.5,6.3,0.4,1.2,2,6.89,"Crystal Palace","D(C)","crystal-palace",850000
+"317","Daniel Agger",2009,"23",1979,1.8,2.1,0.6,0.5,5.8,0.2,0.1,0,7.1,"Liverpool","D(C)","liverpool-fc",10200000
+"318","Daniel Agger",2011,"24(3)",2141,1.2,2.2,0.6,0.4,3.6,0.3,0.5,1,6.92,"Liverpool","D(C)","liverpool-fc",9350000
+"319","Daniel Agger",2012,"35",3100,1,1.8,0.7,0.4,5.6,0.3,0.5,0,7.06,"Liverpool","D(C)","liverpool-fc",12750000
+"320","Daniel Agger",2013,"16(4)",1420,1.4,1.1,0.5,0.3,5.7,0.3,0.4,0,6.97,"Liverpool","D(C)","liverpool-fc",16150000
+"321","Danny Collins",2009,"22(3)",2079,1.7,2.2,0.4,0,6.5,0.4,0.3,0,6.89,"Stoke","D(C)","stoke-city",3150000
+"322","Danny Collins",2009,"22(3)",2079,1.7,2.2,0.4,0,6.5,0.4,0.3,0,6.89,"Stoke","D(C)","sunderland-afc",3150000
+"323","Danny Collins",2010,"23(2)",2031,2.1,1.8,0.7,0.1,4.3,0.5,0.5,1,6.69,"Stoke","D(C)","stoke-city",3400000
+"324","Danny Gabbidon",2010,"24(2)",2181,1.9,1.3,0.7,0.3,5.7,0.5,1,0,6.81,"West Ham","D(C)","west-ham-united",1280000
+"325","Danny Gabbidon",2013,"22(1)",1974,1.4,1.7,0.4,0.4,8.7,0.4,0.7,1,7.09,"Crystal Palace","D(C)","crystal-palace",425000
+"326","David Wheater",2011,"24",2010,1.8,2.3,1.2,1.5,8.3,0.6,1.4,0,6.93,"Bolton","D(C)",NA,NA
+"327","Dejan Lovren",2013,"31",2788,2,2.7,0.8,1.4,7.8,0.5,0.3,0,7.32,"Southampton","D(C)","southampton-fc",5950000
+"328","Dejan Lovren",2014,"22(4)",2036,2,1.8,0.7,0.5,7.8,0.7,0.2,0,7,"Liverpool","D(C)","liverpool-fc",10200000
+"329","Dejan Lovren",2015,"22(2)",1898,1.4,1.5,1,0.4,6.4,0.6,0.6,0,6.97,"Liverpool","D(C)","liverpool-fc",12750000
+"330","Dejan Lovren",2016,"11",990,1.5,1.4,1,1.4,5.9,0.5,0.5,0,7.11,"Liverpool","D(C)","liverpool-fc",12750000
+"331","Eliaquim Mangala",2014,"24(1)",2189,1.7,1.6,0.8,0.9,5.9,0.8,0.5,1,7.07,"Manchester City","D(C)","manchester-city",19550000
+"332","Eliaquim Mangala",2015,"23",2011,1.4,2.9,1.6,0.6,5.2,0.7,0.3,1,6.9,"Manchester City","D(C)","manchester-city",25500000
+"333","Eric Bailly",2016,"9",772,2.3,3.3,1.3,0.9,6.1,0.3,0.6,0,7.18,"Manchester United","D(C)","manchester-united",21250000
+"334","Fabricio Coloccini",2010,"35",3082,2,2.6,0.4,1.8,4.9,0.6,0.3,1,6.81,"Newcastle United","D(C)",NA,NA
+"335","Fabricio Coloccini",2011,"35",3044,1.9,2,0.7,1.5,4.9,0.6,0.7,0,6.88,"Newcastle United","D(C)",NA,NA
+"336","Fabricio Coloccini",2012,"22",1921,2,1.9,0.5,1.2,6,0.7,0.5,0,6.79,"Newcastle United","D(C)",NA,NA
+"337","Fabricio Coloccini",2013,"27",2405,1.6,2.3,0.2,1.4,3.6,0.8,0.5,0,6.78,"Newcastle United","D(C)",NA,NA
+"338","Fabricio Coloccini",2014,"32",2837,1.9,2.2,0.4,1,5.3,0.5,0.6,0,6.81,"Newcastle United","D(C)",NA,NA
+"339","Fabricio Coloccini",2015,"26",2294,1.7,2.3,0.3,0.6,3.7,1.1,1.1,1,6.69,"Newcastle United","D(C)",NA,NA
+"340","Federico Fazio",2014,"20",1777,1.8,3.4,0.8,1.6,8.3,0.4,1.4,0,7.39,"Tottenham","D(C)","tottenham-hotspur",5100000
+"341","Federico Fernandez",2014,"27(1)",2475,1.9,3.1,0.6,0.5,6.1,1.1,0.6,0,7.11,"Swansea","D(C)","swansea-city",3400000
+"342","Federico Fernandez",2015,"32",2880,1.8,2.5,1,0.8,6.8,0.8,0.7,2,6.98,"Swansea","D(C)","swansea-city",7650000
+"343","Gabriel Paulista",2015,"18(3)",1762,2,2.9,0.4,1,5.4,0.5,0.6,0,7.23,"Arsenal","D(C)","arsenal-fc",10200000
+"344","Gareth McAuley",2011,"32",2880,2,0.7,0.6,0.9,6.4,0.2,1,1,6.89,"West Bromwich Albion","D(C)","west-bromwich-albion",1280000
+"345","Gareth McAuley",2012,"36",3240,1,0.9,0.6,1.3,7.9,0.3,0.9,2,6.87,"West Bromwich Albion","D(C)","west-bromwich-albion",1280000
+"346","Gareth McAuley",2013,"32",2860,1.3,1.8,0.7,0.9,7.7,0.4,0.7,1,7.1,"West Bromwich Albion","D(C)","west-bromwich-albion",1280000
+"347","Gareth McAuley",2014,"24",2072,1.3,1.8,0.4,0.9,6.1,0.3,0.6,0,6.97,"West Bromwich Albion","D(C)","west-bromwich-albion",850000
+"348","Gareth McAuley",2015,"34",3060,1.4,2.8,0.9,0.7,5,0.3,0.8,1,6.95,"West Bromwich Albion","D(C)","west-bromwich-albion",425000
+"349","Gareth McAuley",2016,"14",1260,1.5,2.1,0.9,0.5,6.3,0.5,0.9,0,7.34,"West Bromwich Albion","D(C)","west-bromwich-albion",850000
+"350","Gary Cahill",2009,"29",2610,2.2,1.7,1,1.1,11.7,0.3,1,0,7.33,"Bolton","D(C)",NA,NA
+"351","Gary Cahill",2010,"36",3214,1.8,1.8,1,1.5,10.7,0.4,1.1,0,7.3,"Bolton","D(C)",NA,NA
+"352","Gary Cahill",2011,"19",1638,0.7,2.1,0.9,1.9,9.8,0.3,1.3,0,6.93,"Bolton","D(C)","chelsea-fc",8080000
+"353","Gary Cahill",2012,"24(2)",2216,1.1,1,0.5,0.9,6.5,0.3,1.2,0,7.07,"Chelsea","D(C)","chelsea-fc",14030000
+"354","Gary Cahill",2013,"29(1)",2623,1.1,1,0.4,0.6,6.8,0.3,0.7,0,7.29,"Chelsea","D(C)","chelsea-fc",16150000
+"355","Gary Cahill",2014,"33(3)",2985,1,0.8,0.6,1,6.1,0.3,0.8,0,6.96,"Chelsea","D(C)","chelsea-fc",16150000
+"356","Gary Cahill",2015,"21(2)",1955,1,1.6,0.7,0.8,4.9,0.3,1.5,1,6.81,"Chelsea","D(C)","chelsea-fc",1.7e+07
+"357","Gary Caldwell",2010,"23",1977,1.2,2.1,1.6,0.6,5.4,0.4,0.9,0,6.72,"Wigan","D(C)",NA,NA
+"358","Gary Caldwell",2011,"36",3225,0.6,1.4,1,0.9,5.8,0.4,1,1,6.57,"Wigan","D(C)",NA,NA
+"359","Gary Caldwell",2012,"25",2089,1,2,1.2,0.8,4.5,0.4,0.9,1,6.48,"Wigan","D(C)",NA,NA
+"360","George Elokobi",2009,"17(5)",1643,1.9,1.9,0.8,0.3,6.5,0.6,0.2,0,6.84,"Wolverhampton Wanderers","D(C)",NA,NA
+"361","George Elokobi",2010,"23(4)",2120,2,1.2,0.9,0.2,4.9,0.9,0.3,0,6.8,"Wolverhampton Wanderers","D(C)",NA,NA
+"362","Grant Hanley",2011,"19(4)",1823,1.8,1.9,1.2,0.8,6.9,0.1,1.3,0,6.66,"Blackburn","D(C)",NA,NA
+"363","Hayden Mullins",2009,"15(3)",1316,1.8,1.1,0.7,0.1,1.9,0.7,0.2,0,6.33,"Portsmouth","D(C)",NA,NA
+"364","Jamaal Lascelles",2015,"10(8)",1149,0.7,1.6,0.6,0.3,4.3,0.2,0.7,0,6.61,"Newcastle United","D(C)",NA,NA
+"365","James Collins",2009,"26(1)",2367,1.3,2.1,1.1,0.7,9.9,0.6,1.7,1,7.22,"Aston Villa","D(C)","west-ham-united",1700000
+"366","James Collins",2010,"31(1)",2853,1.3,1.7,1,1,8.3,0.8,1.3,0,7.04,"Aston Villa","D(C)",NA,NA
+"367","James Collins",2011,"31(1)",2780,1.3,2.3,0.8,0.8,9.4,0.6,1,0,6.98,"Aston Villa","D(C)",NA,NA
+"368","James Collins",2012,"29",2496,1.8,1.6,0.8,1.2,10.7,0.8,1.4,0,7.01,"West Ham","D(C)","west-ham-united",4250000
+"369","James Collins",2013,"22(2)",1899,2,0.7,0.7,0.5,9.8,0.6,1.3,0,7.15,"West Ham","D(C)","west-ham-united",2980000
+"370","James Collins",2014,"21(6)",1879,1.4,2,0.7,0.6,10.7,0.8,1.1,1,7.21,"West Ham","D(C)","west-ham-united",2550000
+"371","James Collins",2015,"16(3)",1440,1,1,0.6,0.8,7.9,0.5,1.2,0,6.92,"West Ham","D(C)","west-ham-united",1700000
+"372","Jamie Carragher",2009,"37",3254,2.2,1.9,0.8,0.5,6.8,0.4,0.6,0,6.93,"Liverpool","D(C)","liverpool-fc",16150000
+"373","Jamie Carragher",2010,"28",2489,1.3,1,0.5,0.4,6.1,0.3,0.9,1,6.7,"Liverpool","D(C)","liverpool-fc",14450000
+"374","Jamie Carragher",2011,"19(2)",1725,1.1,0.7,0.3,0.5,5,0,0.5,0,6.43,"Liverpool","D(C)","liverpool-fc",8500000
+"375","Jamie Carragher",2012,"16(8)",1529,0.8,0.4,0.5,0.3,3.9,0.4,0.4,0,6.59,"Liverpool","D(C)","liverpool-fc",1700000
+"376","Jason Shackell",2014,"38",3347,0.6,1.3,0.6,0.8,11.5,0.2,1.4,1,7.27,"Burnley","D(C)","burnley-fc",1020000
+"377","Joel Matip",2016,"11",990,1.4,1.7,0.5,0.8,5.1,0.1,0.6,0,7.16,"Liverpool","D(C)","liverpool-fc",15300000
+"378","Johan Djourou",2010,"20(2)",1796,1,2,1.4,1.5,6.2,0.3,0.7,0,6.97,"Arsenal","D(C)","arsenal-fc",3830000
+"379","Johan Djourou",2011,"14(4)",1167,1.4,0.7,0.7,0.8,2.3,0.6,0.4,0,6.55,"Arsenal","D(C)","arsenal-fc",5530000
+"380","John Heitinga",2009,"29(2)",2591,2.9,3.1,1.6,0.3,5.3,0.7,0.5,0,7.25,"Everton","D(C)",NA,NA
+"381","John Heitinga",2010,"23(4)",1897,1.7,1.4,1.5,0.3,2.1,0.5,0.2,0,6.49,"Everton","D(C)",NA,NA
+"382","John Heitinga",2011,"29(1)",2541,1.3,1.5,1.1,0.8,5.4,0.3,1.1,1,6.83,"Everton","D(C)",NA,NA
+"383","John Heitinga",2012,"17(9)",1603,0.7,1.5,0.7,0.8,3.6,0.1,0.5,0,6.46,"Everton","D(C)",NA,NA
+"384","John O'Shea",2010,"18(2)",1542,1.8,1.3,0.5,0.1,2.5,0.6,0.3,0,6.99,"Manchester United","D(C)","manchester-united",5950000
+"385","John O'Shea",2011,"29",2441,1.8,2,0.4,0.4,5.6,0.5,0.5,0,6.84,"Sunderland","D(C)","sunderland-afc",5530000
+"386","John O'Shea",2012,"34",2994,1.5,2,0.8,0.5,8,0.5,0.8,0,6.91,"Sunderland","D(C)","sunderland-afc",2980000
+"387","John O'Shea",2013,"33",2922,1.3,1.5,0.6,0.5,5.2,0.4,0.6,1,6.72,"Sunderland","D(C)","sunderland-afc",2550000
+"388","John O'Shea",2014,"37",3271,1.3,2,0.8,0.4,5,0.4,0.6,1,6.82,"Sunderland","D(C)","sunderland-afc",1700000
+"389","John O'Shea",2015,"23(5)",2008,1.1,1.4,0.7,0.2,6.5,0.3,0.4,0,6.59,"Sunderland","D(C)","sunderland-afc",850000
+"390","John Terry",2009,"37",3261,1.8,2.4,0.9,1.1,6.8,0.3,0.6,0,7.24,"Chelsea","D(C)","chelsea-fc",29750000
+"391","John Terry",2010,"33",2962,2.2,1.6,0.9,0.6,5.1,0.4,0.8,0,7.31,"Chelsea","D(C)","chelsea-fc",29750000
+"392","John Terry",2011,"31",2790,1.8,1.9,0.7,0.6,5.8,0.5,0.8,0,7.11,"Chelsea","D(C)","chelsea-fc",28900000
+"393","John Terry",2013,"34",3060,0.9,1,0.4,0.4,6.7,0.2,0.6,1,7.13,"Chelsea","D(C)","chelsea-fc",10200000
+"394","John Terry",2014,"38",3420,1.1,0.9,0.3,0.6,5.7,0.3,0.8,1,7.03,"Chelsea","D(C)","chelsea-fc",6380000
+"395","John Terry",2015,"24",1991,0.9,1.6,0.4,0.5,3.7,0.3,0.8,1,6.55,"Chelsea","D(C)","chelsea-fc",4250000
+"396","Jonas Olsson",2010,"24",2125,1.1,1.1,0.8,0.8,9.5,0.3,1,1,6.85,"West Bromwich Albion","D(C)","west-bromwich-albion",1620000
+"397","Jonas Olsson",2011,"33",2946,1,0.9,1.1,0.8,6.8,0.2,1.2,0,6.81,"West Bromwich Albion","D(C)","west-bromwich-albion",2130000
+"398","Jonas Olsson",2012,"36",3240,0.8,0.7,0.9,0.6,7.1,0.2,1,1,6.59,"West Bromwich Albion","D(C)","west-bromwich-albion",2980000
+"399","Jonas Olsson",2013,"32",2819,0.7,1.8,0.6,0.8,9.3,0.4,0.5,1,6.97,"West Bromwich Albion","D(C)","west-bromwich-albion",4250000
+"400","Jonas Olsson",2015,"25(3)",2018,0.6,1.6,0.8,0.4,4.5,0.3,1.1,1,6.61,"West Bromwich Albion","D(C)","west-bromwich-albion",2130000
+"401","Jores Okore",2014,"22(1)",2009,2.2,2.9,0.9,0.7,6.5,0.7,0.7,0,7.1,"Aston Villa","D(C)",NA,NA
+"402","Jos Hooiveld",2012,"23(2)",2033,1.5,2.1,0.8,1,7.6,0.2,0.8,3,6.92,"Southampton","D(C)","southampton-fc",1700000
+"403","Jose Fonte",2012,"25(2)",2312,1.5,1.4,0.8,1.6,8.8,0.4,0.7,0,6.93,"Southampton","D(C)","southampton-fc",2130000
+"404","Jose Fonte",2013,"35(1)",3181,1.9,2.1,0.9,1.3,8.3,0.6,0.6,0,7.21,"Southampton","D(C)","southampton-fc",2130000
+"405","Jose Fonte",2014,"37",3330,2.1,3.2,0.8,0.5,5.5,0.4,0.6,0,7.2,"Southampton","D(C)","southampton-fc",2980000
+"406","Jose Fonte",2015,"37",3169,1.4,2.2,0.6,0.5,6.1,0.5,0.9,0,7.03,"Southampton","D(C)","southampton-fc",3830000
+"407","Kamil Zayatte",2009,"21(2)",1872,2.2,3.3,1.3,0.3,9.7,0.4,0.7,2,7.17,"Hull","D(C)","hull-city",2550000
+"408","Kolo Toure",2009,"31",2711,2.2,2.7,0.5,0.9,8.3,0.5,0.8,0,7.29,"Manchester City","D(C)","manchester-city",17850000
+"409","Kolo Toure",2010,"21(1)",1846,2.2,1.8,0.5,0.5,7,0.2,0.5,0,7.1,"Manchester City","D(C)","manchester-city",1.7e+07
+"410","Kolo Toure",2013,"15(5)",1439,1.7,0.8,0.6,0.1,7.4,0.4,0.7,1,6.91,"Liverpool","D(C)","liverpool-fc",5100000
+"411","Kolo Toure",2013,"15(5)",1439,1.7,0.8,0.6,0.1,7.4,0.4,0.7,1,6.91,"Liverpool","D(C)","liverpool-fc",5100000
+"412","Laurent Koscielny",2010,"30",2619,2,2.8,1,1.5,6.9,0.5,0.4,0,7.04,"Arsenal","D(C)","arsenal-fc",4250000
+"413","Laurent Koscielny",2011,"33",2874,2.6,2.8,1,1.5,5.1,0.4,0.5,2,7.24,"Arsenal","D(C)","arsenal-fc",8500000
+"414","Laurent Koscielny",2012,"20(5)",1673,1.7,1.6,0.6,1.2,4.9,0.2,0.4,0,6.94,"Arsenal","D(C)","arsenal-fc",15300000
+"415","Laurent Koscielny",2013,"32",2742,1.7,2.8,0.9,1,7.4,0.3,0.7,0,7.34,"Arsenal","D(C)","arsenal-fc",12750000
+"416","Laurent Koscielny",2014,"26(1)",2288,1.3,3.5,0.7,1.1,5.9,0.5,0.7,0,7.4,"Arsenal","D(C)","arsenal-fc",15300000
+"417","Laurent Koscielny",2015,"33",2847,1.4,3.8,0.9,0.9,5.6,0.4,0.8,0,7.48,"Arsenal","D(C)","arsenal-fc",16150000
+"418","Laurent Koscielny",2016,"13",1170,1.6,3,0.6,1,6,0.2,0.8,0,7.5,"Arsenal","D(C)","arsenal-fc",18700000
+"419","Lorik Cana",2009,"29(2)",2597,3.6,2.5,1.9,0,4.2,1,0.4,0,7.11,"Sunderland","D(C)","sunderland-afc",11900000
+"420","Mamadou Sakho",2013,"17(1)",1481,1.5,1.5,0.6,0.3,7.6,0.3,0.4,0,7.05,"Liverpool","D(C)","liverpool-fc",12750000
+"421","Mamadou Sakho",2015,"21(1)",1855,1.4,1.7,0.4,0.4,6.2,0.3,1,0,7.07,"Liverpool","D(C)","liverpool-fc",15300000
+"422","Martin Demichelis",2013,"27",2430,2,2.6,0.7,0.7,6.8,1.1,0.3,0,7.39,"Manchester City","D(C)","manchester-city",2550000
+"423","Martin Demichelis",2014,"28(3)",2559,2,2.4,1.1,0.8,5.5,1.1,0.3,1,7.02,"Manchester City","D(C)","manchester-city",2130000
+"424","Martin Demichelis",2015,"10(10)",1016,1,1.8,0.6,0.5,3.8,1.1,0.2,0,6.64,"Manchester City","D(C)","manchester-city",1700000
+"425","Martin Skrtel",2009,"16(3)",1410,2.1,1.7,1,0.8,6.4,0.4,0.3,0,6.88,"Liverpool","D(C)","liverpool-fc",12750000
+"426","Martin Skrtel",2010,"38",3420,1.2,1.5,1.1,0.5,6.8,0.3,0.8,1,6.83,"Liverpool","D(C)","liverpool-fc",11480000
+"427","Martin Skrtel",2011,"33(1)",2995,1.7,1.4,1.2,0.3,5.1,0.2,0.9,1,6.94,"Liverpool","D(C)","liverpool-fc",9350000
+"428","Martin Skrtel",2012,"23(2)",2079,1.4,1.6,0.9,0.3,6.7,0.1,1,0,6.96,"Liverpool","D(C)","liverpool-fc",15300000
+"429","Martin Skrtel",2013,"36",3222,1.4,1.7,0.8,0.4,11.4,0.4,1.1,4,7.45,"Liverpool","D(C)","liverpool-fc",12750000
+"430","Martin Skrtel",2014,"33",2970,1.2,1.7,0.7,0.7,9.5,0.3,1.2,0,7.22,"Liverpool","D(C)","liverpool-fc",11900000
+"431","Martin Skrtel",2015,"21(1)",1886,1,1.9,1,0.7,6.7,0.2,0.9,1,6.93,"Liverpool","D(C)","liverpool-fc",11050000
+"432","Matija Nastasic",2012,"21",1823,1.4,1.3,1.1,0.7,6.1,0.4,0.5,0,7.02,"Manchester City","D(C)","manchester-city",4680000
+"433","Matt Upson",2009,"33",2905,1.6,1.8,0.8,0.7,11.7,0.2,0.8,0,7.15,"West Ham","D(C)",NA,NA
+"434","Matt Upson",2010,"30",2475,1.6,2.1,0.8,0.4,9,0.4,0.9,1,6.83,"West Ham","D(C)",NA,NA
+"435","Michael Dawson",2009,"25(4)",2334,1.7,3.3,0.7,0.8,10,0.4,0.9,0,7.58,"Tottenham","D(C)","tottenham-hotspur",5950000
+"436","Michael Dawson",2010,"24",2160,2,2,0.8,0.6,11.1,0.8,1.1,0,7.38,"Tottenham","D(C)","tottenham-hotspur",6800000
+"437","Michael Dawson",2012,"23(4)",2012,1.4,1.7,0.6,0.5,10,0.5,0.5,0,7.09,"Tottenham","D(C)","tottenham-hotspur",9350000
+"438","Michael Dawson",2013,"31(1)",2838,1.5,2.1,0.9,1.4,7.8,0.5,0.7,0,7.16,"Tottenham","D(C)","tottenham-hotspur",7650000
+"439","Michael Dawson",2014,"28",2434,1.4,1.6,0.8,0.4,7.8,0.6,1.3,0,7.11,"Hull","D(C)","hull-city",6800000
+"440","Michael Dawson",2014,"28",2434,1.4,1.6,0.8,0.4,7.8,0.6,1.3,0,7.11,"Hull","D(C)","tottenham-hotspur",6800000
+"441","Michael Duff",2014,"21",1809,1.1,1.6,0.9,0.4,9.5,1,1,0,7.02,"Burnley","D(C)","burnley-fc",213000
+"442","Michael Turner",2009,"29",2550,2.1,2.3,1.3,0.7,10.7,0.5,1,0,7.09,"Sunderland","D(C)","sunderland-afc",3400000
+"443","Michael Turner",2009,"29",2550,2.1,2.3,1.3,0.7,10.7,0.5,1,0,7.09,"Sunderland","D(C)","hull-city",3400000
+"444","Michael Turner",2011,"23(1)",2115,1.8,2,1,0.5,8.4,0.5,1,0,6.89,"Sunderland","D(C)","sunderland-afc",5100000
+"445","Michael Turner",2012,"25(1)",2225,1.6,1.7,0.9,0.7,7.1,0.5,0.7,0,6.7,"Norwich","D(C)",NA,NA
+"446","Michael Turner",2013,"22",1944,2,1.7,1.1,0.5,7.2,0.6,1,0,6.87,"Norwich","D(C)",NA,NA
+"447","Mike Williamson",2010,"28(1)",2565,1.4,1.7,0.6,0.9,9.2,0.4,0.5,0,7.04,"Newcastle United","D(C)",NA,NA
+"448","Mike Williamson",2011,"21(1)",1895,1.5,1.5,0.7,1.1,6.9,0.5,0.6,0,6.75,"Newcastle United","D(C)",NA,NA
+"449","Mike Williamson",2012,"19",1710,1.5,0.7,1.2,1.2,14,0.3,0.7,0,7.29,"Newcastle United","D(C)",NA,NA
+"450","Mike Williamson",2013,"32(1)",2912,1.5,1.2,0.5,1,7.8,0.4,0.5,0,7.04,"Newcastle United","D(C)",NA,NA
+"451","Mike Williamson",2014,"27(4)",2418,1.1,1.4,0.5,1.2,5.8,0.5,0.6,0,6.62,"Newcastle United","D(C)",NA,NA
+"452","Nemanja Vidic",2009,"24",2107,2.2,2.5,1.3,0.2,9.3,0.3,1.1,0,7.59,"Manchester United","D(C)",NA,NA
+"453","Nemanja Vidic",2010,"35",3118,2.1,2.6,1.1,0.4,9.5,0.2,0.9,0,7.51,"Manchester United","D(C)",NA,NA
+"454","Nemanja Vidic",2012,"18(1)",1619,1.4,1.8,1.1,0.5,10.5,0.1,0.8,1,7.39,"Manchester United","D(C)",NA,NA
+"455","Nemanja Vidic",2013,"23(2)",2084,1.2,1.9,1.3,0.5,10.6,0.2,0.5,0,7.2,"Manchester United","D(C)",NA,NA
+"456","Nicolas Otamendi",2015,"30",2672,3,3.5,1,0.8,7,1.4,0.4,0,7.47,"Manchester City","D(C)","manchester-city",15300000
+"457","Nicolas Otamendi",2016,"11",952,2.8,3.3,1.2,1.4,6.5,1.1,0.4,0,7.59,"Manchester City","D(C)","manchester-city",27200000
+"458","Nicolas Otamendi",2016,"7.59",NA,7.59,NA,7.59,NA,7.59,NA,7.59,NA,7.59,"Manchester City","D(C)","manchester-city",27200000
+"459","Paul McShane",2009,"26(1)",2296,1.9,1.9,1,0.2,5.7,0.6,0.5,0,6.57,"Hull","D(C)","hull-city",2550000
+"460","Paul McShane",2014,"19(1)",1696,1.5,1.4,0.7,0.3,6.3,0.4,0.5,0,6.91,"Hull","D(C)","hull-city",1280000
+"461","Paul Scharner",2009,"30(8)",2524,1.9,1.9,1.2,0.2,2.8,0.7,0.2,0,6.94,"Wigan","D(C)",NA,NA
+"462","Paul Scharner",2010,"33",2751,2.1,2.5,1.5,0.2,3.9,0.9,0.3,0,6.93,"West Bromwich Albion","D(C)","west-bromwich-albion",3830000
+"463","Paul Scharner",2011,"18(11)",1593,1.2,1.1,1,0,0.9,0.6,0.2,0,6.51,"West Bromwich Albion","D(C)","west-bromwich-albion",3830000
+"464","Per Mertesacker",2011,"21",1830,0.8,1.7,0.4,0.7,4.4,0.2,0.6,0,6.67,"Arsenal","D(C)","arsenal-fc",10630000
+"465","Per Mertesacker",2012,"33(1)",3028,1,1.5,0.4,1.1,4.8,0.4,0.6,0,6.96,"Arsenal","D(C)","arsenal-fc",11900000
+"466","Per Mertesacker",2013,"35",3150,1.2,1.7,0.3,0.8,7.2,0.4,0.5,0,7.16,"Arsenal","D(C)","arsenal-fc",13600000
+"467","Per Mertesacker",2014,"35",3150,0.8,2.1,0.2,0.8,5.5,0.3,0.6,0,7.07,"Arsenal","D(C)","arsenal-fc",15300000
+"468","Per Mertesacker",2015,"24",2049,1.1,1.5,0.3,1.1,4.5,0.2,0.4,0,6.86,"Arsenal","D(C)","arsenal-fc",16150000
+"469","Philipp Wollscheid",2015,"30(1)",2685,2.4,2.4,0.5,0.5,5.3,0.9,0.6,0,7,"Stoke","D(C)","stoke-city",3400000
+"470","Philippe Senderos",2011,"21",1829,1,1.9,1,1.1,4.9,0.6,0.9,0,6.7,"Fulham","D(C)",NA,NA
+"471","Philippe Senderos",2012,"18(3)",1681,1.2,2,0.8,1,6.2,0.2,0.4,0,6.63,"Fulham","D(C)",NA,NA
+"472","Radoslav Kovac",2009,"27(4)",2269,2.9,2.1,1.2,0,2.4,1.2,0.3,0,6.86,"West Ham","D(C)","west-ham-united",3830000
+"473","Ramiro Funes Mori",2015,"24(4)",2191,1.5,2.4,0.3,0.7,7.8,0.6,0.4,0,7.18,"Everton","D(C)","everton-fc",3400000
+"474","Ricardo Carvalho",2009,"22",1853,1.6,2.7,1,0.7,5.8,0.5,0.8,0,7.16,"Chelsea","D(C)","chelsea-fc",14880000
+"475","Richard Dunne",2009,"35",3132,2.4,2.3,1.1,0.6,10.7,0.4,1.3,1,7.46,"Aston Villa","D(C)","manchester-city",8080000
+"476","Richard Dunne",2010,"32",2720,2.3,1.4,0.9,0.9,6.8,0.4,1.3,1,7.02,"Aston Villa","D(C)",NA,NA
+"477","Richard Dunne",2011,"28",2520,2.3,2,1.2,0.6,9,0.6,0.8,1,7.05,"Aston Villa","D(C)",NA,NA
+"478","Richard Dunne",2014,"22(1)",1874,2.7,1.9,1.1,1,8.8,0.6,1.2,1,7.07,"Queens Park Rangers","D(C)",NA,NA
+"479","Richard Stearman",2010,"27(4)",2499,2,1.2,0.9,1.2,6.4,0.6,1.2,1,6.66,"Wolverhampton Wanderers","D(C)",NA,NA
+"480","Richard Stearman",2011,"28(2)",2406,1.9,1.5,1,0.7,4.7,0.7,0.8,0,6.43,"Wolverhampton Wanderers","D(C)",NA,NA
+"481","Rio Ferdinand",2010,"19",1710,1.3,2.6,0.2,0.4,6.5,0.2,0.4,0,7.13,"Manchester United","D(C)","manchester-united",26350000
+"482","Rio Ferdinand",2011,"29(1)",2565,1.4,1.8,0.3,0.4,7.4,0.4,0.7,0,6.99,"Manchester United","D(C)","manchester-united",1.7e+07
+"483","Rio Ferdinand",2012,"26(2)",2324,1.3,1.4,0.3,0.4,7.9,0.1,0.6,0,6.98,"Manchester United","D(C)","manchester-united",5100000
+"484","Robert Huth",2009,"30(2)",2743,2,2.1,1,0.3,8.5,0.3,0.7,0,7.1,"Stoke","D(C)","stoke-city",3400000
+"485","Robert Huth",2009,"30(2)",2743,2,2.1,1,0.3,8.5,0.3,0.7,0,7.1,"Stoke","D(C)","middlesbrough-fc",3400000
+"486","Robert Huth",2010,"35",3111,1.9,1.8,1.3,0.5,8,0.4,0.9,0,7.15,"Stoke","D(C)","stoke-city",3400000
+"487","Robert Huth",2011,"31(3)",2832,2,2,1.2,0.3,8.9,0.3,1,0,7.01,"Stoke","D(C)","stoke-city",5950000
+"488","Robert Huth",2012,"35",3150,1.9,1.4,1.3,0.6,8,0.3,0.9,0,6.95,"Stoke","D(C)","stoke-city",6800000
+"489","Robert Huth",2015,"35",3150,1.2,2.2,1,0.5,7.4,0.3,1,0,7.15,"Leicester","D(C)","leicester-city",4250000
+"490","Roger Johnson",2009,"38",3420,1.4,2.4,0.6,0.7,11.6,0.3,1.3,0,7.21,"Birmingham","D(C)",NA,NA
+"491","Roger Johnson",2010,"38",3376,1.4,1.9,0.7,0.8,11,0.5,1.2,2,7.08,"Birmingham","D(C)",NA,NA
+"492","Roger Johnson",2011,"26(1)",2356,1.6,2.6,0.8,0.9,8.4,0.7,1.2,1,6.78,"Wolverhampton Wanderers","D(C)",NA,NA
+"493","Ron Vlaar",2012,"27",2391,2,2.4,0.3,0.6,7.8,0.1,0.8,1,7.05,"Aston Villa","D(C)",NA,NA
+"494","Ron Vlaar",2013,"32",2806,2,2,0.3,1.3,6.6,0.4,0.6,0,6.93,"Aston Villa","D(C)",NA,NA
+"495","Ron Vlaar",2013,"32",2806,2,2,0.3,1.3,6.6,0.4,0.6,0,6.93,"Aston Villa","D(C)",NA,NA
+"496","Ron Vlaar",2014,"19(1)",1647,0.9,2,0.5,1,5.8,0.2,0.5,0,6.65,"Aston Villa","D(C)",NA,NA
+"497","Ronald Zubar",2009,"23",2061,3,2.4,1.3,0.3,6.4,0.7,0.2,1,7.14,"Wolverhampton Wanderers","D(C)",NA,NA
+"498","Ryan Bennett",2015,"20(2)",1838,0.9,1.6,0.6,1.1,7.9,0.4,0.6,1,6.76,"Norwich","D(C)",NA,NA
+"499","Ryan Nelsen",2009,"25(3)",2271,1.6,1.8,1.1,0.8,11.5,0.4,0.8,0,7.2,"Blackburn","D(C)",NA,NA
+"500","Ryan Nelsen",2010,"28",2415,1.9,3,0.6,0.5,10,0.4,1,0,7.14,"Blackburn","D(C)",NA,NA
+"501","Ryan Nelsen",2012,"21",1884,2.1,3.1,0.6,0.7,10.9,0.8,1.2,0,7.3,"Queens Park Rangers","D(C)",NA,NA
+"502","Ryan Shawcross",2009,"27(1)",2449,1.6,2.1,1.3,0.5,10.4,0.3,1.2,0,7.07,"Stoke","D(C)","stoke-city",3150000
+"503","Ryan Shawcross",2010,"36",3196,1.8,1,1.2,0.4,9.1,0.5,0.8,0,6.85,"Stoke","D(C)","stoke-city",4680000
+"504","Ryan Shawcross",2011,"36",3169,1.4,0.8,1.1,0.7,13.4,0.3,0.8,0,6.97,"Stoke","D(C)","stoke-city",7230000
+"505","Ryan Shawcross",2012,"37",3330,1.5,1.2,0.9,0.5,6.9,0.4,1.1,1,6.87,"Stoke","D(C)","stoke-city",6800000
+"506","Ryan Shawcross",2013,"37",3292,1,1,0.8,0.4,8.7,0.3,1.2,1,6.93,"Stoke","D(C)","stoke-city",8500000
+"507","Ryan Shawcross",2013,"37",3292,1,1,0.8,0.4,8.7,0.3,1.2,1,6.93,"Stoke","D(C)","stoke-city",8500000
+"508","Ryan Shawcross",2014,"32",2832,1.3,1.6,0.8,0.3,7.5,0.5,1,0,7.09,"Stoke","D(C)","stoke-city",7650000
+"509","Ryan Shawcross",2015,"20",1697,2.2,2,0.9,0.2,4.7,0.8,1,0,6.81,"Stoke","D(C)","stoke-city",7650000
+"510","Scott Dann",2009,"30",2700,2.4,2.1,0.8,0.9,10.7,0.6,1,1,7.14,"Birmingham","D(C)",NA,NA
+"511","Scott Dann",2010,"20",1800,2.7,0.9,0.9,0.9,8.4,0.6,0.8,1,6.93,"Birmingham","D(C)",NA,NA
+"512","Scott Dann",2011,"27",2403,1.6,1.3,0.5,0.8,8.3,0.2,1.1,2,6.62,"Blackburn","D(C)",NA,NA
+"513","Scott Dann",2014,"34",2923,0.9,1.6,0.9,0.3,6.5,0.4,1,0,6.96,"Crystal Palace","D(C)","crystal-palace",2550000
+"514","Scott Dann",2015,"35",3150,1,1.8,0.6,0.3,5.1,0.4,1.3,0,7.05,"Crystal Palace","D(C)","crystal-palace",2550000
+"515","Scott Dann",2016,"10",900,1.1,2.1,0.7,0.6,5.7,0.2,0.7,0,7.09,"Crystal Palace","D(C)","crystal-palace",4250000
+"516","Sebastian Prodl",2015,"19(2)",1777,1.1,3.1,1.1,1,4.4,0.5,0.7,0,6.82,"Watford","D(C)","watford-fc",2550000
+"517","Sebastien Bassong",2009,"25(3)",2295,1.1,1.7,0.6,0.9,9,0.2,0.4,0,7.07,"Tottenham","D(C)",NA,NA
+"518","Sebastien Bassong",2012,"34",2962,0.6,1.6,0.8,0.9,6.4,0.1,0.7,0,6.84,"Norwich","D(C)",NA,NA
+"519","Sebastien Bassong",2013,"27",2378,1,1.6,0.4,0.8,7.2,0.3,0.7,1,6.74,"Norwich","D(C)",NA,NA
+"520","Sebastien Bassong",2015,"30(2)",2789,0.8,1.7,0.8,0.9,8,0.4,0.6,0,6.75,"Norwich","D(C)",NA,NA
+"521","Sebastien Squillaci",2010,"20(2)",1818,1.7,1.9,0.5,1.7,4.6,0.1,0.5,1,6.76,"Arsenal","D(C)","arsenal-fc",6800000
+"522","Steve Cook",2015,"36",3196,0.9,2.3,0.4,1,8.3,0.5,1,0,7.03,"Bournemouth","D(C)","afc-bournemouth",1280000
+"523","Steve Cook",2016,"14",1260,0.9,1.4,0.2,0.8,9.5,0.1,1.2,0,7.12,"Bournemouth","D(C)","afc-bournemouth",4250000
+"524","Steven Caulker",2011,"26",2340,1.3,1.2,0.5,0.4,7,0.3,1,0,6.9,"Swansea","D(C)","tottenham-hotspur",43000
+"525","Steven Caulker",2011,"26",2340,1.3,1.2,0.5,0.4,7,0.3,1,0,6.9,"Swansea","D(C)","swansea-city",43000
+"526","Steven Caulker",2013,"38",3420,1.2,1.2,0.2,0.9,8.6,0.3,1.6,0,7.06,"Cardiff","D(C)",NA,NA
+"527","Steven Caulker",2014,"34(1)",3017,1.1,2,0.4,0.9,9.9,0.7,1,1,7.17,"Queens Park Rangers","D(C)",NA,NA
+"528","Steven Taylor",2012,"24(1)",2136,0.6,0.6,0.5,0.3,8.8,0.4,0.8,0,6.66,"Newcastle United","D(C)",NA,NA
+"529","Sylvain Distin",2009,"29",2590,1.8,2.5,0.5,0.5,13.4,0.2,0.9,0,7.37,"Everton","D(C)","everton-fc",7060000
+"530","Sylvain Distin",2010,"38",3411,1.8,1.3,0.3,1.1,10.4,0.4,1,0,7.15,"Everton","D(C)","everton-fc",6380000
+"531","Sylvain Distin",2011,"24(3)",2217,1.6,2.5,0.4,0.9,8,0.3,0.6,0,6.93,"Everton","D(C)","everton-fc",3830000
+"532","Sylvain Distin",2012,"31(3)",2837,1.5,1.6,0.4,0.8,9.2,0.2,0.6,0,7.19,"Everton","D(C)","everton-fc",1700000
+"533","Sylvain Distin",2013,"33",2926,1.6,1.7,0.3,0.8,8.4,0.5,0.5,0,7.25,"Everton","D(C)","everton-fc",850000
+"534","Tal Ben Haim",2009,"21(1)",1913,3.2,2.2,1.5,0.6,7.1,1,0.6,0,7.01,"Portsmouth","D(C)",NA,NA
+"535","Titus Bramble",2009,"35",3111,2.1,2.1,0.7,1.3,9.9,0.9,1,0,7.14,"Wigan","D(C)",NA,NA
+"536","Titus Bramble",2010,"22(1)",2001,2.5,2.7,0.7,0.8,9.6,1,0.6,0,7.04,"Sunderland","D(C)","sunderland-afc",3400000
+"537","Vedran Corluka",2009,"29",2556,2.3,2.2,0.8,0.3,4.1,0.5,0.3,0,7.12,"Tottenham","D(C)","tottenham-hotspur",11050000
+"538","Vincent Kompany",2009,"21(4)",1913,2,2.8,1,0.6,7.5,0.3,0.5,0,7.26,"Manchester City","D(C)","manchester-city",8500000
+"539","Vincent Kompany",2010,"37",3330,2.7,2.4,1.2,0.5,9.1,0.3,0.9,0,7.42,"Manchester City","D(C)","manchester-city",10200000
+"540","Vincent Kompany",2011,"31",2774,2.1,2.4,1,0.5,6.2,0.3,0.8,1,7.32,"Manchester City","D(C)","manchester-city",1.7e+07
+"541","Vincent Kompany",2012,"26",2239,2.1,1.7,1.3,0.7,6.8,0.2,0.5,1,7.09,"Manchester City","D(C)","manchester-city",29750000
+"542","Vincent Kompany",2013,"28",2365,2.3,2,0.8,1,5.1,0.6,0.5,1,7.18,"Manchester City","D(C)","manchester-city",29750000
+"543","Vincent Kompany",2014,"23(2)",2034,1.4,1.8,1.4,0.6,4,0.6,0.6,0,6.86,"Manchester City","D(C)","manchester-city",29750000
+"544","Virgil van Dijk",2015,"34",3060,1.7,2.8,0.8,0.3,7.6,0.3,0.6,0,7.56,"Southampton","D(C)","southampton-fc",4250000
+"545","Virgil van Dijk",2016,"14",1260,2.1,2.6,0.9,0.3,7.1,0.3,0.8,0,7.5,"Southampton","D(C)","southampton-fc",13600000
+"546","Wes Brown",2009,"18(1)",1573,2,2,1.3,0.5,5,0.5,0.5,0,7.08,"Manchester United","D(C)","manchester-united",7650000
+"547","Wes Brown",2011,"20",1736,1.9,1.8,1,0.8,6.5,0.4,1.1,1,6.93,"Sunderland","D(C)","sunderland-afc",5100000
+"548","Wes Brown",2013,"24(1)",2065,1,1.2,0.7,0.4,5.2,0.6,1,1,6.66,"Sunderland","D(C)","sunderland-afc",850000
+"549","Wes Brown",2014,"23(2)",1994,1.5,1.2,0.6,0.2,5.2,0.6,1,1,6.71,"Sunderland","D(C)","sunderland-afc",638000
+"550","Wes Morgan",2014,"37",3288,1.5,2.6,0.8,0.9,6.9,0.1,1.3,2,7.2,"Leicester","D(C)","leicester-city",1450000
+"551","Wes Morgan",2015,"38",3420,1.3,2.5,0.7,0.7,5.7,0.2,1.1,0,7.07,"Leicester","D(C)","leicester-city",1700000
+"552","William Gallas",2009,"26",2340,1.5,1.9,0.5,1.5,7.8,0.4,0.6,0,7.15,"Arsenal","D(C)","arsenal-fc",13600000
+"553","William Gallas",2010,"26(1)",2339,1.6,2.2,1,0.7,8.1,0.1,0.6,0,6.88,"Tottenham","D(C)","tottenham-hotspur",13600000
+"554","William Gallas",2012,"16(3)",1526,0.9,1.7,0.3,0.9,9.1,0.1,0.7,0,6.85,"Tottenham","D(C)","tottenham-hotspur",2130000
+"555","Winston Reid",2012,"36",3145,1.9,2,1.1,0.7,8.8,0.6,0.7,0,7.03,"West Ham","D(C)","west-ham-united",2980000
+"556","Winston Reid",2013,"18(4)",1674,1.1,1.8,1,0.3,7.6,0.2,0.7,0,7,"West Ham","D(C)","west-ham-united",5100000
+"557","Winston Reid",2014,"29(1)",2503,1.5,1.6,1,0.4,9.3,0.4,1,0,7.03,"West Ham","D(C)","west-ham-united",5100000
+"558","Winston Reid",2015,"24",2136,1.9,3.2,1,0.7,6.5,0.5,1,1,7.18,"West Ham","D(C)","west-ham-united",7650000
+"559","Winston Reid",2016,"11",978,1.4,3.8,1.3,0.4,8.4,0.8,1.1,0,7.23,"West Ham","D(C)","west-ham-united",8500000
+"560","Younes Kaboul",2009,"19",1710,1.9,3.3,0.8,0.9,11.2,0.5,0.5,1,7.34,"Portsmouth","D(C)",NA,NA
+"561","Younes Kaboul",2010,"19(2)",1635,2.2,1.8,1,0.3,7.3,0.7,0.4,0,6.95,"Tottenham","D(C)",NA,NA
+"562","Younes Kaboul",2011,"33",2904,2.1,2.3,0.8,0.5,8.8,0.3,0.7,1,7.3,"Tottenham","D(C)",NA,NA
+"563","Younes Kaboul",2015,"22(1)",2009,1.9,2.3,0.7,0.3,8.6,0.5,0.9,0,7.18,"Sunderland","D(C)",NA,NA
+"564","Zak Whitbread",2011,"18",1441,1.6,0.8,0.9,0.6,8.8,0.3,0.7,0,6.79,"Norwich","D(C)",NA,NA
+"565","Zat Knight",2009,"35",3150,1.9,2.2,0.6,1.1,12.4,0.7,0.7,1,7.08,"Bolton","D(C)",NA,NA
+"566","Zat Knight",2010,"34",2998,1.7,2.1,1,1.2,10,0.7,0.9,0,6.98,"Bolton","D(C)",NA,NA
+"567","Zat Knight",2011,"21(4)",1982,1.8,2,0.3,0.8,8.7,0.6,0.6,0,6.64,"Bolton","D(C)",NA,NA
+"568","Chancel Mbemba",2015,"33",2924,2.3,2.8,0.6,0.5,6.9,0.7,0.8,0,6.98,"Newcastle United","D(C),DMC",NA,NA
+"569","Cheikhou Kouyate",2014,"30(1)",2662,2.5,1.9,1.5,0.1,3.3,0.9,0.3,0,7.19,"West Ham","D(C),DMC","west-ham-united",5950000
+"570","Cheikhou Kouyate",2015,"34",3010,2.8,2.2,1.1,0.1,1.7,1.5,0.4,0,7.26,"West Ham","D(C),DMC","west-ham-united",7650000
+"571","Danny Higginbotham",2009,"23(1)",2004,1.4,1.4,0.5,0.2,6.7,0.3,0.7,1,6.86,"Stoke","D(C),DMC","stoke-city",2550000
+"572","David Luiz",2011,"18(2)",1652,1.4,2.8,1.1,0.7,3.9,0.6,0.5,0,7.19,"Chelsea","D(C),DMC","chelsea-fc",1.7e+07
+"573","David Luiz",2012,"29(1)",2634,1.5,2.4,1.4,0.6,4.5,0.5,0.4,1,7.21,"Chelsea","D(C),DMC","chelsea-fc",19550000
+"574","David Luiz",2013,"15(4)",1359,1.2,1.3,1.4,0.3,4.6,0.9,0.3,0,6.98,"Chelsea","D(C),DMC","chelsea-fc",21250000
+"575","David Luiz",2016,"10",900,1.1,1.4,0.6,0.5,5.5,0.6,0.7,0,7.2,"Chelsea","D(C),DMC","chelsea-fc",25500000
+"576","Gael Givet",2009,"33(1)",2800,1.6,2.6,0.6,0.3,7.3,0.3,0.6,1,7,"Blackburn","D(C),DMC",NA,NA
+"577","Gael Givet",2010,"29",2455,1.1,2.4,0.4,0.4,7.8,0.3,0.6,0,6.78,"Blackburn","D(C),DMC",NA,NA
+"578","Gael Givet",2011,"21(1)",1750,1.1,2.5,0.4,0.5,7.9,0.4,0.3,0,6.65,"Blackburn","D(C),DMC",NA,NA
+"579","Gary Medel",2013,"34",2873,2.3,1.9,1,0.1,1.8,1.5,0.3,0,6.7,"Cardiff","D(C),DMC",NA,NA
+"580","Jake Livermore",2011,"7(17)",839,1.2,1.1,0.4,0,0.4,0.2,0.1,0,6.47,"Tottenham","D(C),DMC","tottenham-hotspur",255000
+"581","Jake Livermore",2013,"34(2)",3054,1.9,1.4,1.2,0,0.8,1,0.4,0,6.81,"Hull","D(C),DMC","hull-city",2130000
+"582","Jake Livermore",2014,"35",3033,2.8,1.7,1.5,0,0.7,1,0.3,0,6.72,"Hull","D(C),DMC","hull-city",2130000
+"583","Javi Garcia",2012,"17(7)",1496,1,1.4,1.4,0.2,2.4,0.8,0.6,0,6.8,"Manchester City","D(C),DMC","manchester-city",8930000
+"584","Javi Garcia",2013,"14(15)",1529,0.9,1.1,0.6,0.2,2,0.6,0.1,0,6.69,"Manchester City","D(C),DMC","manchester-city",14450000
+"585","Nadir Belhadj",2009,"16(3)",1468,2.5,1.6,0.4,0.2,1.3,0.8,0.2,0,6.87,"Portsmouth","D(C),DMC",NA,NA
+"586","Brett Emerton",2009,"17(7)",1420,0.9,1,0.8,0,0.4,0.2,0.1,0,6.42,"Blackburn","D(C),DMC,M(R)",NA,NA
+"587","Brett Emerton",2010,"24(6)",2193,1.2,0.8,1.2,0,1.1,0.5,0.1,0,6.61,"Blackburn","D(C),DMC,M(R)",NA,NA
+"588","Esteban Cambiasso",2014,"27(4)",2423,2.3,2.1,0.6,0,1,1.5,0.3,1,6.97,"Leicester","D(C),M(C)","leicester-city",5100000
+"589","Etienne Capoue",2015,"33",2822,2.9,2.5,1.6,0,1.4,1.2,0.2,0,7.01,"Watford","D(C),M(C)",NA,NA
+"590","Etienne Capoue",2016,"14",1223,2.3,1.5,1.8,0,0.9,1.3,0.4,0,7.19,"Watford","D(C),M(C)",NA,NA
+"591","Javier Mascherano",2009,"31(3)",2756,5.2,2.9,2,0,1,1.4,0.3,0,7.26,"Liverpool","D(C),M(C)","liverpool-fc",22100000
+"592","Lucas Leiva",2009,"32(3)",2844,4.2,2.4,1.8,0,1.9,0.7,0.1,1,7.26,"Liverpool","D(C),M(C)","liverpool-fc",5100000
+"593","Lucas Leiva",2010,"32(1)",2858,5.2,2,2,0,1.6,1.7,0.3,0,7.21,"Liverpool","D(C),M(C)","liverpool-fc",5950000
+"594","Lucas Leiva",2012,"24(2)",1953,4.7,2.5,2,0.1,1.2,1.6,0.3,0,7.24,"Liverpool","D(C),M(C)","liverpool-fc",12750000
+"595","Lucas Leiva",2013,"20(7)",1872,3.3,1.9,1.7,0.1,2.2,1.4,0.3,0,7.09,"Liverpool","D(C),M(C)","liverpool-fc",12750000
+"596","Lucas Leiva",2014,"16(4)",1315,3.9,1.6,1.4,0,2.3,1.5,0.3,0,6.96,"Liverpool","D(C),M(C)","liverpool-fc",14450000
+"597","Lucas Leiva",2015,"21(6)",1953,4,1.9,1.8,0.1,1,1.4,0.3,0,7.08,"Liverpool","D(C),M(C)","liverpool-fc",10200000
+"598","Michael Carrick",2009,"22(8)",2112,2.3,1.5,0.5,0.1,1.4,0.6,0.4,0,7.03,"Manchester United","D(C),M(C)","manchester-united",22100000
+"599","Michael Carrick",2010,"23(5)",1976,2.2,2,0.5,0,1,1,0.3,0,6.84,"Manchester United","D(C),M(C)","manchester-united",22100000
+"600","Michael Carrick",2011,"27(3)",2513,3,2.4,0.7,0,1.6,0.8,0.5,0,7.34,"Manchester United","D(C),M(C)","manchester-united",15300000
+"601","Michael Carrick",2012,"34(2)",3045,2.3,2.1,0.8,0,1.5,1.1,0.5,0,7.1,"Manchester United","D(C),M(C)","manchester-united",11900000
+"602","Michael Carrick",2013,"26(3)",2413,2.1,2.8,0.4,0.1,2.1,0.8,0.3,1,7.07,"Manchester United","D(C),M(C)","manchester-united",9350000
+"603","Michael Carrick",2014,"16(2)",1457,1.4,1.7,0.4,0.3,2,0.6,0.6,0,7.06,"Manchester United","D(C),M(C)","manchester-united",7230000
+"604","Michael Carrick",2015,"22(6)",1975,1.5,1.6,0.4,0.1,1.3,0.7,0.1,0,6.66,"Manchester United","D(C),M(C)","manchester-united",4250000
+"605","Stephane Mbia",2012,"29",2375,2.6,2.7,1.8,0.1,2,0.5,0.4,0,6.9,"Queens Park Rangers","D(C),M(C)",NA,NA
+"606","Elliot Grandin",2010,"21(2)",1515,1.1,0.3,0.7,0,0.3,0.8,0,0,6.47,"Blackpool","D(C),M(C),FW",NA,NA
+"607","Michael Ballack",2009,"26(6)",2366,1.5,1.6,1.7,0,1.1,0.3,0.3,0,7.14,"Chelsea","D(C),M(C),FW","chelsea-fc",18700000
+"608","Morten Gamst Pedersen",2009,"27(6)",2424,1.8,2.6,1.4,0,0.9,1,0.1,0,7,"Blackburn","D(C),M(C),FW",NA,NA
+"609","Morten Gamst Pedersen",2010,"27(8)",2517,1.6,2.1,1.2,0,1.6,1.1,0.3,0,6.93,"Blackburn","D(C),M(C),FW",NA,NA
+"610","Morten Gamst Pedersen",2011,"33",2836,2,2.8,1.7,0,1.8,1.3,0.2,0,6.98,"Blackburn","D(C),M(C),FW",NA,NA
+"611","Simon Davies",2010,"25(5)",2212,1.8,1.2,0.6,0,0.8,0.8,0,0,6.96,"Fulham","D(C),M(C),FW",NA,NA
+"612","El Hadji Diouf",2009,"24(2)",1946,1.2,1.4,1.1,0,0.7,0.6,0,0,6.72,"Blackburn","D(C),M(CLR),FW",NA,NA
+"613","El Hadji Diouf",2010,"18(2)",1563,1.7,1.6,1.1,0.1,0.6,0.5,0,0,6.77,"Blackburn","D(C),M(CLR),FW",NA,NA
+"614","Rory Delap",2009,"34(2)",2887,1.6,2.1,0.9,0,2.7,0.5,0.5,0,6.79,"Stoke","D(C),M(CR),FW","stoke-city",2550000
+"615","Rory Delap",2010,"33(4)",2962,1.7,1.6,1.3,0,1.5,0.8,0.2,1,6.74,"Stoke","D(C),M(CR),FW","stoke-city",2550000
+"616","Rory Delap",2011,"18(8)",1527,1.4,1.3,1.1,0,1.7,0.8,0.2,0,6.47,"Stoke","D(C),M(CR),FW","stoke-city",2130000
+"617","Stilian Petrov",2009,"37",3272,3.9,2.8,1.2,0,2,1.3,0.8,0,7.33,"Aston Villa","D(C),M(CR),FW",NA,NA
+"618","Stilian Petrov",2010,"23(4)",2072,2.7,2.5,1.3,0,1.6,1,0.7,0,7.02,"Aston Villa","D(C),M(CR),FW",NA,NA
+"619","Stilian Petrov",2011,"26(1)",2330,2.2,3.6,1.1,0,1.9,1.3,0.6,0,7.29,"Aston Villa","D(C),M(CR),FW",NA,NA
+"620","Richard Garcia",2009,"14(4)",1104,1.3,1.4,0.8,0,0.9,0.3,0.2,1,6.44,"Hull","D(C),M(R)",NA,NA
+"621","Andy Dawson",2009,"35",3068,2,1.3,0.9,0.3,4.6,0.5,0.4,1,6.64,"Hull","D(CL)","hull-city",1700000
+"622","Ben Davies",2012,"33(4)",3049,2.5,1.8,0.8,0.1,4.5,0.9,0.3,0,6.95,"Swansea","D(CL)","swansea-city",NA
+"623","Ben Mee",2014,"32(1)",2888,1.9,2,0.9,0.1,5.6,0.9,0.9,0,7.08,"Burnley","D(CL)","burnley-fc",1020000
+"624","Ben Mee",2016,"14",1260,1.1,2.5,0.5,0.5,9.2,0.4,1.4,1,7.05,"Burnley","D(CL)","burnley-fc",2980000
+"625","Ciaran Clark",2010,"16(3)",1567,2.8,2.3,1.7,0.1,4.4,0.8,0.5,0,6.99,"Aston Villa","D(CL)",NA,NA
+"626","Ciaran Clark",2012,"28(1)",2498,1.3,2.3,1.1,0.8,11.3,0.4,1.1,1,6.82,"Aston Villa","D(CL)",NA,NA
+"627","Ciaran Clark",2013,"23(4)",2203,1.7,1,1.1,1.1,7.4,0.3,0.8,0,6.87,"Aston Villa","D(CL)",NA,NA
+"628","Ciaran Clark",2014,"22(3)",1994,1.6,1.9,0.8,0.8,8,0.2,0.9,0,7.12,"Aston Villa","D(CL)",NA,NA
+"629","Ciaran Clark",2015,"16(2)",1442,1.3,2.6,0.8,0.4,7.1,0.5,0.7,0,6.87,"Aston Villa","D(CL)",NA,NA
+"630","Clarke Carlisle",2009,"27",2374,1.9,2.6,1,1.4,13.4,0.7,0.6,1,7.03,"Burnley","D(CL)","burnley-fc",1190000
+"631","Clint Hill",2011,"19(3)",1706,1.3,1.1,1.3,0.3,8,0.2,0.9,0,6.71,"Queens Park Rangers","D(CL)",NA,NA
+"632","Clint Hill",2012,"31",2632,2.1,1.8,1.3,0.6,9.9,0.5,1.2,1,6.98,"Queens Park Rangers","D(CL)",NA,NA
+"633","Clint Hill",2014,"15(4)",1410,1.4,1.3,1.2,0.1,5.8,0.6,0.5,0,6.84,"Queens Park Rangers","D(CL)",NA,NA
+"634","Daniel Fox",2012,"14(6)",1217,1.4,1.5,0.6,0.1,3,0.4,0.3,0,6.43,"Southampton","D(CL)",NA,NA
+"635","Fernando Amorebieta",2013,"20(3)",1846,1,1.9,1.1,0.6,8.3,0.3,0.7,1,6.88,"Fulham","D(CL)",NA,NA
+"636","Jan Vertonghen",2012,"34",3060,3.1,2.9,0.7,0.8,8.7,0.6,0.2,0,7.62,"Tottenham","D(CL)","tottenham-hotspur",12750000
+"637","Jan Vertonghen",2013,"23",2004,1.4,1.8,0.5,0.8,4.7,0.7,0.3,0,6.93,"Tottenham","D(CL)","tottenham-hotspur",16150000
+"638","Jan Vertonghen",2013,"23",2004,1.4,1.8,0.5,0.8,4.7,0.7,0.3,0,6.93,"Tottenham","D(CL)","tottenham-hotspur",16150000
+"639","Jan Vertonghen",2014,"31(1)",2810,1.6,2.2,0.6,1,7,0.5,0.7,1,7.06,"Tottenham","D(CL)","tottenham-hotspur",18700000
+"640","Jan Vertonghen",2015,"29",2595,1.7,2.2,0.6,0.8,6,0.2,0.6,1,7.06,"Tottenham","D(CL)","tottenham-hotspur",16150000
+"641","Jan Vertonghen",2016,"14",1260,1,1.1,0.7,0.9,9.4,0.3,0.9,0,7.27,"Tottenham","D(CL)","tottenham-hotspur",19550000
+"642","Javier Garrido",2012,"34",3039,1.6,1.1,0.6,0.2,2.9,0.7,0.3,0,6.55,"Norwich","D(CL)",NA,NA
+"643","Jody Craddock",2009,"33",2970,1.9,1,1.1,1.1,9.5,0.3,0.8,1,7.08,"Wolverhampton Wanderers","D(CL)",NA,NA
+"644","Joleon Lescott",2009,"17(1)",1565,1.4,2.3,0.7,0.7,7.7,0.2,0.9,0,7.02,"Manchester City","D(CL)","manchester-city",14450000
+"645","Joleon Lescott",2009,"17(1)",1565,1.4,2.3,0.7,0.7,7.7,0.2,0.9,0,7.02,"Manchester City","D(CL)","everton-fc",14450000
+"646","Joleon Lescott",2010,"20(2)",1882,1.4,1.3,0.6,0.6,6,0.2,0.6,0,6.99,"Manchester City","D(CL)","manchester-city",12750000
+"647","Joleon Lescott",2011,"30(1)",2688,1.4,1.7,0.8,0.4,5,0.3,0.8,1,7.05,"Manchester City","D(CL)","manchester-city",11050000
+"648","Joleon Lescott",2012,"17(9)",1544,0.8,1,0.3,0.3,4.8,0.3,0.8,0,6.73,"Manchester City","D(CL)","manchester-city",12750000
+"649","Joleon Lescott",2014,"34",3060,1.6,2.2,0.7,0.9,6,0.4,1.1,0,7.11,"West Bromwich Albion","D(CL)","west-bromwich-albion",5950000
+"650","Joleon Lescott",2015,"30",2631,1.1,2.6,0.5,1,5.9,0.6,0.7,0,6.75,"Aston Villa","D(CL)","west-bromwich-albion",3400000
+"651","Jonny Evans",2009,"18",1587,2,2.6,1.1,0.7,8,0.4,0.4,0,7.37,"Manchester United","D(CL)","manchester-united",4680000
+"652","Jonny Evans",2011,"28(1)",2428,1.2,1.9,0.9,0.2,7.8,0.3,1,1,7.21,"Manchester United","D(CL)","manchester-united",7650000
+"653","Jonny Evans",2012,"21(2)",1903,1.7,2,0.6,0.3,8.2,0.3,0.9,2,7.24,"Manchester United","D(CL)","manchester-united",8080000
+"654","Jonny Evans",2015,"30",2593,2.4,3,0.8,0.3,3.4,0.8,0.9,0,7.2,"West Bromwich Albion","D(CL)","west-bromwich-albion",6800000
+"655","Jonny Evans",2016,"13",1170,1.6,2.6,1.4,0.5,4.3,0.8,0.6,0,6.99,"West Bromwich Albion","D(CL)","west-bromwich-albion",5100000
+"656","Liam Ridgewell",2009,"30(1)",2745,2.2,1.3,0.9,0.5,4.7,0.7,0.4,0,6.88,"Birmingham","D(CL)",NA,NA
+"657","Liam Ridgewell",2010,"36",3175,1.8,1.3,0.8,0.3,3.9,0.9,0.7,0,6.66,"Birmingham","D(CL)",NA,NA
+"658","Liam Ridgewell",2012,"28(2)",2486,1.4,1.1,1.1,0.1,3.1,0.5,0.6,0,6.68,"West Bromwich Albion","D(CL)","west-bromwich-albion",2130000
+"659","Liam Ridgewell",2013,"33",2871,2.1,1.4,0.7,0.2,3.5,1.3,0.4,0,6.72,"West Bromwich Albion","D(CL)","west-bromwich-albion",2130000
+"660","Marc Muniesa",2014,"14(5)",1387,2.1,2.1,0.9,0.7,4.5,1.5,0.4,0,6.97,"Stoke","D(CL)","stoke-city",1700000
+"661","Marcos Rojo",2014,"20(2)",1765,2.4,2.5,1.1,0.4,6.3,0.5,0.3,0,7.26,"Manchester United","D(CL)","manchester-united",4680000
+"662","Miguel Britos",2015,"24",2076,1,2.5,0.8,1.1,5.3,0.5,0.6,0,6.8,"Watford","D(CL)","watford-fc",3150000
+"663","Nacho Monreal",2013,"13(10)",1179,1.3,1.1,0.5,0.1,2.4,0.6,0.1,0,6.67,"Arsenal","D(CL)","arsenal-fc",8500000
+"664","Nacho Monreal",2014,"26(2)",2311,2.3,3.1,0.9,0.3,4.4,0.7,0.4,0,7.33,"Arsenal","D(CL)","arsenal-fc",9350000
+"665","Nacho Monreal",2015,"36(1)",3248,2.1,2.9,0.8,0.2,3.1,0.8,0.3,0,7.26,"Arsenal","D(CL)","arsenal-fc",8500000
+"666","Nacho Monreal",2016,"13",1154,2.2,3.6,1.1,0.1,2.8,1.4,0.3,0,7.11,"Arsenal","D(CL)","arsenal-fc",12750000
+"667","Nathan Baker",2012,"25(1)",2013,1.8,2.3,1,0.8,9.1,0.3,1.4,2,7.09,"Aston Villa","D(CL)",NA,NA
+"668","Nathan Baker",2013,"29(1)",2478,1,1.5,1.2,1,7.1,0.9,0.8,1,6.65,"Aston Villa","D(CL)",NA,NA
+"669","Paul Dummett",2013,"11(7)",1138,2,1.1,0.5,0.2,4.3,0.6,0.2,0,6.77,"Newcastle United","D(CL)",NA,NA
+"670","Paul Dummett",2014,"24(1)",2109,1.5,1.3,0.5,0.6,6.6,0.4,0.4,1,6.89,"Newcastle United","D(CL)",NA,NA
+"671","Paul Dummett",2015,"23",1897,2.3,1.8,0.6,0.3,3.8,1,0.5,0,6.89,"Newcastle United","D(CL)",NA,NA
+"672","Paul Robinson",2009,"24(1)",2193,3,2.2,1.2,0.2,4,1.1,0.4,0,6.8,"Bolton","D(CL)",NA,NA
+"673","Paul Robinson",2010,"35",3150,2.7,1.5,1,0.1,3.9,0.9,0.5,0,6.78,"Bolton","D(CL)",NA,NA
+"674","Stephen Jordan",2009,"23(2)",2024,2.3,1.8,1,0.3,5.4,0.5,0.2,1,6.74,"Burnley","D(CL)","burnley-fc",1060000
+"675","Stephen Warnock",2009,"30",2596,2.6,2.1,0.7,0.1,4.2,1,0.5,0,7.07,"Aston Villa","D(CL)",NA,NA
+"676","Stephen Warnock",2010,"19",1710,2.9,2.7,1.2,0.2,4,0.9,0.3,0,6.83,"Aston Villa","D(CL)",NA,NA
+"677","Stephen Warnock",2011,"34(1)",3056,2.3,2.9,1,0.2,4.1,0.9,0.4,1,7.02,"Aston Villa","D(CL)",NA,NA
+"678","Thomas Vermaelen",2009,"33",2799,1.9,2,0.8,1.1,7.1,0.2,0.5,1,7.38,"Arsenal","D(CL)","arsenal-fc",5100000
+"679","Thomas Vermaelen",2011,"28(1)",2478,1.6,2.3,1.1,1,4.1,0.1,0.5,1,7.13,"Arsenal","D(CL)","arsenal-fc",15300000
+"680","Thomas Vermaelen",2012,"25(4)",2238,1.5,1.6,0.7,0.7,4.5,0.3,0.7,0,6.83,"Arsenal","D(CL)","arsenal-fc",15730000
+"681","Abdoulaye Faye",2009,"30(1)",2386,1.7,1.8,0.8,0.4,8.6,0.2,0.8,0,7.03,"Stoke","D(CL),DMC",NA,NA
+"682","John Mensah",2010,"15(3)",1195,1.5,2.4,1.2,0.8,5.9,0.2,0.7,0,6.89,"Sunderland","D(CL),DMC","sunderland-afc",4250000
+"683","Marc Wilson",2009,"28",2411,1.6,1.5,1.1,0.9,6.9,0.6,1.2,1,6.72,"Portsmouth","D(CL),DMC",NA,NA
+"684","Marc Wilson",2010,"21(7)",1856,1.8,1,0.9,0,3,0.3,0.4,0,6.55,"Stoke","D(CL),DMC","stoke-city",1280000
+"685","Marc Wilson",2011,"35",2908,2.3,1.1,1,0.2,7,0.8,0.2,0,6.78,"Stoke","D(CL),DMC","stoke-city",2550000
+"686","Marc Wilson",2012,"19",1494,3,1.7,1,0.3,4,0.8,0.3,0,6.91,"Stoke","D(CL),DMC","stoke-city",4250000
+"687","Marc Wilson",2013,"30(3)",2691,2,1.1,1,0.3,4.2,0.8,0.8,0,6.75,"Stoke","D(CL),DMC","stoke-city",4250000
+"688","Marc Wilson",2014,"25(2)",2124,1.4,1.2,0.9,0.2,6.2,0.7,0.6,0,6.82,"Stoke","D(CL),DMC","stoke-city",3400000
+"689","Steven Mouyokolo",2009,"19(2)",1674,2.2,1.1,0.7,0.9,8.7,0,0.7,0,6.89,"Hull","D(CL),DMC","hull-city",1020000
+"690","Daley Blind",2014,"25",2172,2.3,3.2,1,0.1,2.5,1.1,0.1,0,7.19,"Manchester United","D(CL),DMC,M(L)","manchester-united",5100000
+"691","Daley Blind",2015,"35",3117,2.7,2.3,0.8,0.5,3.4,0.8,0.6,0,7.14,"Manchester United","D(CL),DMC,M(L)","manchester-united",12750000
+"692","Daley Blind",2016,"9(1)",836,2,2.3,0.4,0.3,5,0.2,0.4,0,7.41,"Manchester United","D(CL),DMC,M(L)","manchester-united",18700000
+"693","Aaron Mokoena",2009,"21(2)",1733,1.4,1.9,1.5,0.1,3.7,0.5,0.4,0,6.56,"Portsmouth","D(CL),FW",NA,NA
+"694","Aleksandar Kolarov",2010,"20(4)",1717,1.7,1,0.7,0.1,3,0.6,0.2,0,6.89,"Manchester City","D(CL),M(L)","manchester-city",7650000
+"695","Aleksandar Kolarov",2012,"11(9)",1051,1.7,1.1,1,0.1,2,0.6,0.1,0,6.8,"Manchester City","D(CL),M(L)","manchester-city",11900000
+"696","Aleksandar Kolarov",2013,"21(9)",1971,1.7,1,0.4,0.1,2.1,0.6,0.1,0,7.12,"Manchester City","D(CL),M(L)","manchester-city",10630000
+"697","Aleksandar Kolarov",2014,"16(5)",1486,1.9,2,1.1,0,1.5,0.7,0.2,0,7.32,"Manchester City","D(CL),M(L)","manchester-city",10200000
+"698","Aleksandar Kolarov",2015,"25(4)",2282,1.2,1.6,0.7,0.2,2.4,0.7,0.3,0,7.14,"Manchester City","D(CL),M(L)","manchester-city",9350000
+"699","Aleksandar Kolarov",2016,"12(1)",1111,1.5,1.5,1.2,0.7,5,0.8,0.2,1,7,"Manchester City","D(CL),M(L)","manchester-city",9350000
+"700","Marcos Alonso",2016,"8(1)",755,3.1,2.1,1.2,0.1,3.1,1.2,0.1,0,7.61,"Chelsea","D(CL),M(L)","chelsea-fc",11050000
+"701","Maynor Figueroa",2009,"35",3088,2.5,2.4,1,0.1,4.1,0.7,0.3,0,6.88,"Wigan","D(CL),M(L)",NA,NA
+"702","Maynor Figueroa",2010,"32(1)",2812,2.6,2.1,1.2,0.2,4.3,0.8,0.2,0,6.82,"Wigan","D(CL),M(L)",NA,NA
+"703","Maynor Figueroa",2011,"37(1)",3353,2.8,2.4,1,0.4,4.4,0.7,0.5,0,6.94,"Wigan","D(CL),M(L)",NA,NA
+"704","Maynor Figueroa",2012,"33",2815,2.1,2.2,1.3,0.4,3.6,0.9,0.7,0,6.71,"Wigan","D(CL),M(L)",NA,NA
+"705","Maynor Figueroa",2013,"31(1)",2717,2.1,2.4,1.3,0.2,3.6,0.9,0.5,0,6.87,"Hull","D(CL),M(L)","hull-city",3830000
+"706","Ryan Bertrand",2012,"14(5)",1280,1.2,0.5,0.7,0.2,1.3,0.2,0.1,0,6.48,"Chelsea","D(CL),M(L)","chelsea-fc",2130000
+"707","Ryan Bertrand",2014,"34",3055,1.3,2,0.9,0.2,1.4,0.4,0.2,0,7.02,"Southampton","D(CL),M(L)","southampton-fc",5100000
+"708","Ryan Bertrand",2015,"32",2880,1.3,2.3,0.9,0.3,2.8,0.5,0.2,0,6.92,"Southampton","D(CL),M(L)","southampton-fc",8500000
+"709","Alex Baptiste",2010,"19(2)",1729,2.4,0.9,0.5,0.8,9,1.1,0.8,0,6.78,"Blackpool","D(CLR)",NA,NA
+"710","Cesar Azpilicueta",2012,"24(3)",2196,2.6,1.6,0.8,0.3,2.5,0.6,0.2,1,6.99,"Chelsea","D(CLR)","chelsea-fc",6380000
+"711","Cesar Azpilicueta",2013,"26(3)",2325,3.4,1.7,1,0.1,4.8,1,0.3,1,7.26,"Chelsea","D(CLR)","chelsea-fc",11900000
+"712","Cesar Azpilicueta",2014,"29",2484,3,2,0.7,0.1,3.1,1.1,0.4,0,7.24,"Chelsea","D(CLR)","chelsea-fc",15300000
+"713","Cesar Azpilicueta",2015,"36(1)",3202,3.1,2.3,1.1,0.1,2.8,0.8,0.4,0,7.03,"Chelsea","D(CLR)","chelsea-fc",17850000
+"714","Cesar Azpilicueta",2016,"14",1260,2.7,1.7,0.7,0.4,3.1,1.1,0.4,0,7.22,"Chelsea","D(CLR)","chelsea-fc",1.7e+07
+"715","James Chester",2013,"22(2)",1868,1.8,2,0.6,0.1,4.6,0.7,0.9,2,6.82,"Hull","D(CLR)","hull-city",850000
+"716","James Chester",2014,"23",1876,2.4,2.3,1.1,0.3,4.4,0.9,0.6,0,7.03,"Hull","D(CLR)","hull-city",2130000
+"717","Jose Bosingwa",2010,"13(7)",1263,1.7,1.9,0.4,0.1,1.4,0.7,0.2,1,6.82,"Chelsea","D(CLR)","chelsea-fc",1.7e+07
+"718","Jose Bosingwa",2011,"24(3)",2119,2.3,2.4,1.2,0.4,2.7,0.5,0.1,0,6.97,"Chelsea","D(CLR)","chelsea-fc",14450000
+"719","Jose Bosingwa",2012,"22(1)",1832,2.3,2.3,0.6,0.4,3.7,0.5,0.4,0,6.82,"Queens Park Rangers","D(CLR)",NA,NA
+"720","Kevin Theophile0Catherine",2013,"26(2)",2357,2.2,1.8,1.1,0.2,4.3,0.8,0.5,0,6.78,"Cardiff","D(CLR)",NA,NA
+"721","Emre Can",2014,"23(4)",2067,2.9,1.4,1.1,0.3,2.9,0.9,0.2,0,7.05,"Liverpool","D(CLR),DMC","liverpool-fc",6380000
+"722","Emre Can",2015,"28(2)",2493,2.6,2.1,1.2,0.1,1.4,1.3,0.3,0,7.05,"Liverpool","D(CLR),DMC","liverpool-fc",10200000
+"723","Emre Can",2016,"7(3)",659,2,0.9,1.7,0,1.2,0.9,0.1,0,7.19,"Liverpool","D(CLR),DMC","liverpool-fc",15300000
+"724","Geoff Cameron",2012,"29(6)",2636,3.2,2.1,0.8,0.2,2.5,1.1,0.4,0,6.88,"Stoke","D(CLR),DMC","stoke-city",1280000
+"725","Geoff Cameron",2013,"37",3286,2.9,2.5,1,0.1,3.4,1.4,0.2,0,7.08,"Stoke","D(CLR),DMC","stoke-city",4250000
+"726","Geoff Cameron",2014,"21(6)",2135,2.4,2.1,0.5,0.2,3.1,1.2,0.4,0,6.97,"Stoke","D(CLR),DMC","stoke-city",3830000
+"727","Geoff Cameron",2015,"27(3)",2361,2,1.9,0.9,0.3,3.3,0.9,0.6,0,6.86,"Stoke","D(CLR),DMC","stoke-city",2980000
+"728","Steve Gohouri",2010,"26(1)",2361,3,2.3,1.3,0.8,7.5,0.8,0.4,0,7.16,"Wigan","D(CLR),DMC",NA,NA
+"729","James Perch",2011,"13(12)",1330,2,1.7,0.7,0.3,2.8,0.4,0.6,0,6.67,"Newcastle United","D(CLR),DMC,M(R)",NA,NA
+"730","James Perch",2012,"19(8)",1820,1.5,1.2,0.7,0,3.9,0.6,0.4,1,6.56,"Newcastle United","D(CLR),DMC,M(R)",NA,NA
+"731","Michael Mancienne",2009,"22(8)",1991,1.4,1.8,0.8,0.6,4.8,0.4,0.5,1,6.6,"Wolverhampton Wanderers","D(CLR),M(C)","chelsea-fc",1280000
+"732","Matteo Darmian",2015,"24(4)",1932,3,1.5,1,0.3,1.9,1,0.1,0,6.91,"Manchester United","D(CLR),M(LR)","manchester-united",6800000
+"733","Aaron Hughes",2009,"34",3060,0.9,1.5,0.2,0.9,10,0.1,1,0,6.95,"Fulham","D(CR)",NA,NA
+"734","Aaron Hughes",2010,"38",3406,1.2,2,0.5,1.3,10.2,0.2,0.5,0,7.08,"Fulham","D(CR)",NA,NA
+"735","Aaron Hughes",2011,"18(1)",1551,0.7,2,0.3,0.8,5.5,0.4,0.7,0,6.74,"Fulham","D(CR)",NA,NA
+"736","Aaron Hughes",2012,"23(1)",2115,0.8,2.4,0.1,0.8,8.1,0.2,0.8,0,6.88,"Fulham","D(CR)",NA,NA
+"737","Adrian Mariappa",2012,"29",2610,1.9,1.9,0.7,0.9,8.4,0.4,1.2,0,6.98,"Reading","D(CR)",NA,NA
+"738","Adrian Mariappa",2013,"23(1)",2113,2,2.4,0.7,0.3,4.7,0.9,0.3,0,7,"Crystal Palace","D(CR)","crystal-palace",2550000
+"739","Andre Wisdom",2014,"22(2)",1971,1.1,1.3,0.5,0.4,2.8,0.4,0.3,0,6.61,"West Bromwich Albion","D(CR)","west-bromwich-albion",2130000
+"740","Andre Wisdom",2014,"22(2)",1971,1.1,1.3,0.5,0.4,2.8,0.4,0.3,0,6.61,"West Bromwich Albion","D(CR)","liverpool-fc",2130000
+"741","Bacary Sagna",2009,"31(4)",2761,1.8,2.2,0.7,0.5,3.9,0.3,0.2,0,7.06,"Arsenal","D(CR)","arsenal-fc",12750000
+"742","Bacary Sagna",2010,"33",2969,2,1.9,0.6,0.2,4.3,0.2,0.2,0,7.16,"Arsenal","D(CR)","arsenal-fc",12330000
+"743","Bacary Sagna",2011,"20(1)",1701,2,1.7,0.6,0.3,2.4,0.6,0,0,7.14,"Arsenal","D(CR)","arsenal-fc",14450000
+"744","Bacary Sagna",2012,"25",2240,2.2,1.3,0.8,0.4,3.6,0.1,0.3,0,7.03,"Arsenal","D(CR)","arsenal-fc",16150000
+"745","Bacary Sagna",2013,"34(1)",3061,1.7,1.5,0.7,0.4,5,0.4,0.2,0,7.2,"Arsenal","D(CR)","arsenal-fc",12330000
+"746","Bacary Sagna",2015,"27(1)",2448,1.8,1.8,0.6,0.4,3.5,0.7,0.3,0,7.12,"Manchester City","D(CR)","manchester-city",5950000
+"747","Branislav Ivanovic",2009,"25(3)",2256,2.7,1.9,1.5,0.4,4.9,0.7,0.3,0,7.47,"Chelsea","D(CR)","chelsea-fc",7230000
+"748","Branislav Ivanovic",2010,"32(2)",2830,2.2,2,1.8,0.5,4.3,0.3,0.2,0,7.24,"Chelsea","D(CR)","chelsea-fc",13600000
+"749","Branislav Ivanovic",2011,"26(3)",2264,2,2,0.8,1,4.5,0.2,0.4,0,7.12,"Chelsea","D(CR)","chelsea-fc",17850000
+"750","Branislav Ivanovic",2012,"33(1)",2944,1.8,1.4,0.7,1,5.8,0.3,0.4,0,7.11,"Chelsea","D(CR)","chelsea-fc",17850000
+"751","Branislav Ivanovic",2013,"36",3180,1.8,1,1.3,0.4,5,0.4,0.2,0,7.29,"Chelsea","D(CR)","chelsea-fc",20400000
+"752","Branislav Ivanovic",2014,"38",3420,2.3,1,1.1,0.1,3.6,0.4,0.1,0,7.25,"Chelsea","D(CR)","chelsea-fc",16150000
+"753","Branislav Ivanovic",2015,"33",2918,2,1.8,1,0.4,2.6,0.9,0.5,0,6.88,"Chelsea","D(CR)","chelsea-fc",14450000
+"754","Calum Chambers",2013,"18(4)",1641,2,1.7,1,0.1,3.5,0.7,0.2,0,6.85,"Southampton","D(CR)","southampton-fc",NA
+"755","Calum Chambers",2014,"17(6)",1571,2.1,2,1.1,0.3,3.4,1.2,0.2,0,7,"Arsenal","D(CR)","arsenal-fc",1700000
+"756","Chris Smalling",2011,"14(5)",1294,0.9,1.3,1.2,0.3,5,0.4,0.6,0,6.84,"Manchester United","D(CR)","manchester-united",4250000
+"757","Chris Smalling",2013,"21(4)",1938,1.7,1,0.8,0.2,7.2,0.1,0.6,0,7.16,"Manchester United","D(CR)","manchester-united",11900000
+"758","Chris Smalling",2014,"21(4)",1880,1.4,2.3,1,0.5,6.2,0.2,0.6,0,7.34,"Manchester United","D(CR)","manchester-united",10200000
+"759","Chris Smalling",2015,"35",3150,1.6,2.8,1.3,0.5,5.1,0.4,0.5,1,7.17,"Manchester United","D(CR)","manchester-united",9350000
+"760","Craig Cathcart",2010,"28(2)",2390,1.8,0.9,0.3,1.3,9.9,0.5,1.4,1,6.74,"Blackpool","D(CR)",NA,NA
+"761","Craig Cathcart",2015,"34(1)",3034,1.3,1.8,0.3,1.2,4.9,0.4,0.7,1,6.7,"Watford","D(CR)","watford-fc",850000
+"762","Craig Dawson",2014,"29",2591,1.8,1.8,0.8,0.5,6.4,0.6,1,0,7.22,"West Bromwich Albion","D(CR)","west-bromwich-albion",1280000
+"763","Craig Dawson",2015,"38",3385,1.6,2.2,0.7,0.2,4.3,1.1,0.7,1,7.02,"West Bromwich Albion","D(CR)","west-bromwich-albion",1700000
+"764","Gabriel Tamas",2010,"22(4)",2037,1.6,1.6,0.9,0.8,5.9,0.5,0.8,1,6.57,"West Bromwich Albion","D(CR)","west-bromwich-albion",2890000
+"765","James Tomkins",2009,"22(1)",1997,1.3,2.4,0.5,0.7,11.7,0.6,0.8,0,7.05,"West Ham","D(CR)","west-ham-united",2550000
+"766","James Tomkins",2010,"18(1)",1582,2.6,2.4,0.9,0.7,8.5,0.8,1.2,0,7.34,"West Ham","D(CR)","west-ham-united",2550000
+"767","James Tomkins",2012,"18(8)",1730,1.3,1.1,0.4,0.7,7,0.3,0.7,0,6.84,"West Ham","D(CR)","west-ham-united",4680000
+"768","James Tomkins",2013,"31",2601,1.7,1.5,0.8,0.6,8.9,0.6,0.6,0,7.17,"West Ham","D(CR)","west-ham-united",4680000
+"769","James Tomkins",2014,"20(2)",1852,2.1,1.5,0.8,0.7,9.5,0.5,0.7,0,7.4,"West Ham","D(CR)","west-ham-united",4250000
+"770","James Tomkins",2015,"23(2)",1965,2.5,2.1,0.7,0.4,4,0.7,0.4,0,6.89,"West Ham","D(CR)","west-ham-united",5100000
+"771","John Stones",2013,"15(6)",1368,1.2,0.9,0.1,0.4,4.1,0.4,0.9,0,6.84,"Everton","D(CR)","everton-fc",2980000
+"772","John Stones",2014,"23",2044,1.4,1.5,0.3,0.7,6,0.2,1.1,0,7.17,"Everton","D(CR)","everton-fc",3400000
+"773","John Stones",2015,"31(2)",2780,1.4,1.7,0.3,0.6,3.8,0.4,1.1,0,6.85,"Everton","D(CR)","everton-fc",8500000
+"774","Kurt Zouma",2015,"21(2)",1918,1.3,1.6,0.4,0.5,5.3,0.3,0.4,0,6.87,"Chelsea","D(CR)","chelsea-fc",8500000
+"775","Luke Young",2010,"23",2070,2.9,1.7,0.7,0.3,4,0.9,0.8,0,6.89,"Aston Villa","D(CR)",NA,NA
+"776","Luke Young",2011,"23",2032,3.5,1.2,1,0.3,4.3,0.8,0.6,0,6.85,"Queens Park Rangers","D(CR)",NA,NA
+"777","Mapou Yanga0Mbiwa",2013,"17(6)",1499,1.4,1.6,0.8,0.3,5.2,0.6,0.3,0,6.69,"Newcastle United","D(CR)",NA,NA
+"778","Marcin Wasilewski",2014,"22(3)",1991,2.1,2.8,1.6,0.9,6.6,0.5,0.8,0,7.13,"Leicester","D(CR)","leicester-city",425000
+"779","Maya Yoshida",2012,"31(1)",2852,1.8,2.2,0.7,1.1,7.2,0.4,0.6,0,6.95,"Southampton","D(CR)","southampton-fc",850000
+"780","Maya Yoshida",2014,"18(4)",1691,1.6,2,0.7,0.5,4.1,0.6,0.4,0,6.9,"Southampton","D(CR)","southampton-fc",3830000
+"781","Maya Yoshida",2015,"10(10)",1016,0.7,1.6,0.4,0.2,3.4,0.3,0.5,0,6.48,"Southampton","D(CR)","southampton-fc",4250000
+"782","Micah Richards",2009,"19(4)",1647,1.2,1.5,1.3,0.3,4,0.5,0.3,0,7.01,"Manchester City","D(CR)","manchester-city",10200000
+"783","Micah Richards",2010,"16(2)",1401,1.6,1.1,0.9,0.1,4.4,0.6,0.4,0,6.97,"Manchester City","D(CR)","manchester-city",10200000
+"784","Micah Richards",2011,"23(6)",2043,1.8,1.2,1.3,0,3.1,0.3,0.4,0,7.03,"Manchester City","D(CR)","manchester-city",8500000
+"785","Micah Richards",2015,"23(1)",2046,1.7,2.5,0.7,0.6,5.9,0.3,0.6,1,6.91,"Aston Villa","D(CR)",NA,NA
+"786","Michael Keane",2014,"17(4)",1595,1,2,0.2,0.4,8.2,0.4,0.4,0,7.04,"Burnley","D(CR)","burnley-fc",425000
+"787","Michael Keane",2014,"17(4)",1595,1,2,0.2,0.4,8.2,0.4,0.4,0,7.04,"Burnley","D(CR)","manchester-united",425000
+"788","Michael Keane",2016,"14",1260,0.6,2.4,0.3,0.3,9.1,0.4,1.7,0,7.18,"Burnley","D(CR)","burnley-fc",6800000
+"789","Nedum Onuoha",2010,"31",2673,1.9,1.8,0.7,0.4,4.6,0.4,0.6,0,6.91,"Sunderland","D(CR)","manchester-city",3830000
+"790","Nedum Onuoha",2010,"31",2673,1.9,1.8,0.7,0.4,4.6,0.4,0.6,0,6.91,"Sunderland","D(CR)","sunderland-afc",3830000
+"791","Nedum Onuoha",2012,"15(8)",1611,2.1,2,0.4,0.3,4.7,0.4,0.7,0,6.74,"Queens Park Rangers","D(CR)",NA,NA
+"792","Nedum Onuoha",2014,"22(1)",1928,2.4,1.7,1,0.7,6.2,0.5,0.4,2,6.8,"Queens Park Rangers","D(CR)",NA,NA
+"793","Ondrej Celustka",2013,"14(7)",1332,1.5,0.5,0.6,0,2.2,0.5,0.1,0,6.39,"Sunderland","D(CR)","sunderland-afc",2550000
+"794","Pascal Chimbonda",2009,"22(2)",1974,1.8,1.8,0.4,0.3,4.8,0.4,0.5,0,6.97,"Blackburn","D(CR)","tottenham-hotspur",4250000
+"795","Phil Jagielka",2010,"31(2)",2796,2.4,2,0.5,0.9,7.6,0.4,1,1,7.11,"Everton","D(CR)","everton-fc",10200000
+"796","Phil Jagielka",2011,"29(1)",2570,1.8,2.1,0.4,0.6,7.6,0.3,0.5,0,7.02,"Everton","D(CR)","everton-fc",10200000
+"797","Phil Jagielka",2012,"36",3155,1.8,2.3,0.3,0.9,7,0.3,0.9,0,7.2,"Everton","D(CR)","everton-fc",10200000
+"798","Phil Jagielka",2013,"26",2316,1.7,1.9,0.4,0.8,8.8,0.6,0.4,0,7.26,"Everton","D(CR)","everton-fc",9350000
+"799","Phil Jagielka",2014,"37",3286,1.4,1.5,0.5,0.6,10,0.4,1.1,0,7.27,"Everton","D(CR)","everton-fc",6380000
+"800","Phil Jagielka",2015,"21",1852,1.9,2.4,0.4,0.5,8.1,0.6,1,0,7.2,"Everton","D(CR)","everton-fc",3830000
+"801","Russell Martin",2011,"30(3)",2850,1.5,1.3,0.5,0.9,8.8,0.4,1,0,6.84,"Norwich","D(CR)",NA,NA
+"802","Russell Martin",2012,"30(1)",2690,1.7,1.4,0.7,0.3,3.7,0.6,0.7,0,6.72,"Norwich","D(CR)",NA,NA
+"803","Russell Martin",2013,"29(2)",2616,1.2,0.9,0.6,0.2,3.4,0.8,0.8,1,6.52,"Norwich","D(CR)",NA,NA
+"804","Russell Martin",2015,"30",2698,1.4,1.2,1.1,0.6,6.7,0.6,0.8,0,6.61,"Norwich","D(CR)",NA,NA
+"805","Santiago Vergini",2014,"28(3)",2623,2,1.7,0.5,0.2,3.5,1.1,0.5,1,6.9,"Sunderland","D(CR)","sunderland-afc",850000
+"806","Shkodran Mustafi",2016,"11",990,2,3.3,1.1,0.8,5.5,0.5,0.2,0,7.4,"Arsenal","D(CR)","arsenal-fc",25500000
+"807","Simon Francis",2015,"38",3387,2.8,2.3,0.9,0.5,5.4,0.8,0.6,0,7.16,"Bournemouth","D(CR)","afc-bournemouth",850000
+"808","Simon Francis",2016,"14",1260,1.9,1.4,0.9,0.6,6.9,0.6,0.6,0,7.01,"Bournemouth","D(CR)","afc-bournemouth",2130000
+"809","Toby Alderweireld",2014,"26",2263,1.7,1.2,0.5,0.4,5.5,0.7,0.8,0,7.07,"Southampton","D(CR)","southampton-fc",8500000
+"810","Toby Alderweireld",2015,"38",3420,1.2,1.7,0.2,1.2,7.5,0.4,0.9,0,7.16,"Tottenham","D(CR)","tottenham-hotspur",9350000
+"811","Toby Alderweireld",2016,"8",690,0.8,1.4,0.4,1,6.1,0.6,0.9,0,7.05,"Tottenham","D(CR)","tottenham-hotspur",22950000
+"812","Eric Dier",2014,"25(3)",2291,1.8,1.7,0.8,0.8,4,0.6,0.4,0,6.93,"Tottenham","D(CR),DMC","tottenham-hotspur",3830000
+"813","Eric Dier",2015,"37",3268,2.1,2.2,1.4,0.1,1.9,0.9,0.6,0,7.06,"Tottenham","D(CR),DMC","tottenham-hotspur",5950000
+"814","Gonzalo Jara",2010,"24(5)",2106,2.6,2.1,1,0.3,2.3,0.8,0.2,0,6.66,"West Bromwich Albion","D(CR),DMC","west-bromwich-albion",1280000
+"815","Jonathan Spector",2009,"22(5)",2238,2.7,1.9,0.9,0.1,5.5,0.6,0.2,1,6.82,"West Ham","D(CR),DMC","west-ham-united",1700000
+"816","Phil Jones",2010,"24(2)",2176,2.9,2.9,1,0.1,4.6,0.7,0.6,0,6.98,"Blackburn","D(CR),DMC",NA,NA
+"817","Phil Jones",2011,"25(4)",2124,2.3,1.7,0.7,0,4.4,0.5,0.4,1,7.18,"Manchester United","D(CR),DMC","manchester-united",2980000
+"818","Phil Jones",2013,"26",2174,2.3,2,1.2,0.3,5.8,0.7,0.5,0,7.26,"Manchester United","D(CR),DMC","manchester-united",14450000
+"819","Phil Jones",2014,"22",1879,2.4,3.2,1.2,0.5,7.5,0.6,0.3,0,7.51,"Manchester United","D(CR),DMC","manchester-united",15300000
+"820","Sam Ricketts",2009,"25(2)",2168,1.6,1.3,0.7,0.2,5.9,0.4,0.6,1,6.69,"Bolton","D(CR),DMC",NA,NA
+"821","Sam Ricketts",2011,"20",1800,1.9,2,1.2,0.5,3.4,0.9,0.5,0,6.74,"Bolton","D(CR),DMC",NA,NA
+"822","Emmerson Boyce",2009,"23(1)",2037,1.8,1.7,0.8,0.7,7,0.5,0.7,0,6.71,"Wigan","D(CR),M(R)",NA,NA
+"823","Emmerson Boyce",2010,"20(2)",1673,1.8,1.4,0.7,0.3,3.5,0.8,0.3,0,6.75,"Wigan","D(CR),M(R)",NA,NA
+"824","Emmerson Boyce",2011,"26",2270,1.4,1.3,0.8,0.3,2.8,0.6,0.2,0,6.76,"Wigan","D(CR),M(R)",NA,NA
+"825","Emmerson Boyce",2012,"36",3150,2,2.1,0.7,0.2,2.9,0.5,0.3,1,6.86,"Wigan","D(CR),M(R)",NA,NA
+"826","Ryan Shotton",2011,"14(9)",1394,1.2,0.9,0.8,0.1,3,0.5,0.1,0,6.57,"Stoke","D(CR),M(R)","stoke-city",43000
+"827","Ryan Shotton",2012,"20(3)",1822,2.6,1.2,0.8,0.4,2.9,1,0.5,0,6.82,"Stoke","D(CR),M(R)","stoke-city",2130000
+"828","Aly Cissokho",2014,"24(1)",2133,1.9,1.2,0.9,0.2,4,0.6,0.3,1,6.78,"Aston Villa","D(L)",NA,NA
+"829","Aly Cissokho",2015,"18",1603,1.4,2.2,0.7,0.4,4.2,0.6,0.2,0,6.46,"Aston Villa","D(L)",NA,NA
+"830","Andrew Taylor",2013,"18",1573,0.7,1.2,0.2,0.3,3.2,0.4,0.5,0,6.47,"Cardiff","D(L)",NA,NA
+"831","Ashley Cole",2009,"25(2)",2157,2.4,2.3,0.6,0.1,2.9,0.5,0.2,0,7.41,"Chelsea","D(L)","chelsea-fc",18700000
+"832","Ashley Cole",2010,"38",3387,2.6,1.3,0.8,0.2,1.2,1,0.3,0,6.95,"Chelsea","D(L)","chelsea-fc",22950000
+"833","Ashley Cole",2011,"31(1)",2786,2.5,1.6,1,0.3,2,0.9,0.3,0,6.86,"Chelsea","D(L)","chelsea-fc",22950000
+"834","Ashley Cole",2012,"31",2790,2.1,1.2,0.5,0.1,2.7,0.7,0.2,0,6.87,"Chelsea","D(L)","chelsea-fc",10630000
+"835","Benoit Assou0Ekotto",2009,"29(1)",2535,2.4,3.5,0.9,0.2,3.6,0.6,0.3,0,7.33,"Tottenham","D(L)",NA,NA
+"836","Benoit Assou0Ekotto",2010,"30",2573,2.7,3.6,1.1,0.2,3.8,0.6,0.3,0,7.22,"Tottenham","D(L)",NA,NA
+"837","Benoit Assou0Ekotto",2011,"34",2963,1.8,2.7,1.1,0.2,2.3,0.5,0.1,0,7.11,"Tottenham","D(L)",NA,NA
+"838","Charlie Daniels",2015,"37",3286,2,1.4,0.3,0.3,2.1,0.8,0.1,0,6.9,"Bournemouth","D(L)","afc-bournemouth",638000
+"839","Charlie Daniels",2016,"12",1080,1.9,1.9,0.3,0.2,2.7,1,0.3,0,7.02,"Bournemouth","D(L)","afc-bournemouth",2130000
+"840","Danny Rose",2012,"25(2)",2222,2.3,2.7,1.1,0.2,2.4,0.8,0.4,0,7,"Sunderland","D(L)","sunderland-afc",2550000
+"841","Danny Rose",2012,"25(2)",2222,2.3,2.7,1.1,0.2,2.4,0.8,0.4,0,7,"Sunderland","D(L)","tottenham-hotspur",2550000
+"842","Danny Rose",2013,"22",1902,2.6,2,1.4,0.2,3.1,0.8,0.4,0,7.06,"Tottenham","D(L)","tottenham-hotspur",4250000
+"843","Danny Rose",2014,"27(1)",2372,2.8,2.2,1.8,0.2,2.7,0.6,0.3,0,7.23,"Tottenham","D(L)","tottenham-hotspur",5100000
+"844","Danny Rose",2015,"24",2132,2.8,1.6,1.7,0.1,3.3,0.8,0.5,0,7.25,"Tottenham","D(L)","tottenham-hotspur",7650000
+"845","Danny Rose",2016,"9",810,3.9,1.3,1.6,0.3,4.2,1.6,0.1,0,7.49,"Tottenham","D(L)","tottenham-hotspur",11900000
+"846","Dean Moxey",2013,"18(2)",1519,2.6,1.5,0.6,0.3,3.3,0.8,0.2,0,6.72,"Crystal Palace","D(L)","crystal-palace",638000
+"847","Emiliano Insua",2009,"30(1)",2722,2.6,2.3,0.9,0.3,2.6,1.1,0.2,0,7.18,"Liverpool","D(L)","liverpool-fc",2550000
+"848","Erik Pieters",2013,"34(2)",2903,3.3,1.6,1.6,0.3,3.6,1.3,0.4,0,6.96,"Stoke","D(L)","stoke-city",2980000
+"849","Erik Pieters",2014,"29(2)",2564,2.3,1.9,1.5,0.2,4.4,1.2,0.3,0,7.02,"Stoke","D(L)","stoke-city",2980000
+"850","Erik Pieters",2015,"35",3098,3.3,2.7,1.7,0.3,2.7,1.1,0.5,0,6.98,"Stoke","D(L)","stoke-city",2550000
+"851","Erik Pieters",2016,"13",1170,3.2,1.7,1.5,0.1,2.8,1,0.3,0,6.99,"Stoke","D(L)","stoke-city",5950000
+"852","Gael Clichy",2009,"23(1)",2086,3,3.4,1,0.5,3.6,1.1,0.2,0,7.38,"Arsenal","D(L)","arsenal-fc",12750000
+"853","Gael Clichy",2010,"33",2970,3.4,3.2,1,0.1,4.5,0.8,0.3,0,7.34,"Arsenal","D(L)","arsenal-fc",12750000
+"854","Gael Clichy",2011,"28",2488,2.3,2.7,0.7,0.1,3.6,0.8,0.2,0,7.37,"Manchester City","D(L)","manchester-city",12750000
+"855","Gael Clichy",2012,"26(2)",2334,3.2,2.4,0.6,0.3,3.6,0.6,0.2,0,7.27,"Manchester City","D(L)","manchester-city",12750000
+"856","Gael Clichy",2013,"18(2)",1660,2.9,2,0.4,0.4,3.3,0.9,0.2,0,7.25,"Manchester City","D(L)","manchester-city",12750000
+"857","Gael Clichy",2014,"23",2058,2.6,3.4,0.5,0.6,3.4,1,0.3,0,7.38,"Manchester City","D(L)","manchester-city",11050000
+"858","George Friend",2016,"10",900,3.5,3.5,1,0.7,3.9,1.3,0.6,0,7.34,"Middlesbrough","D(L)","middlesbrough-fc",1280000
+"859","George McCartney",2009,"20(5)",1757,2.1,1.7,0.8,0.2,3.6,0.4,0.4,0,6.63,"Sunderland","D(L)","sunderland-afc",2810000
+"860","George McCartney",2013,"20(2)",1841,1.6,0.9,0.5,0.2,5,0.4,0.7,0,6.85,"West Ham","D(L)","west-ham-united",1280000
+"861","John Arne Riise",2011,"35(1)",3141,1.9,1.8,0.5,0.3,3,0.5,0.5,0,6.9,"Fulham","D(L)",NA,NA
+"862","John Arne Riise",2012,"29(2)",2530,1.7,1.7,0.6,0.3,3.7,0.5,0.4,0,6.81,"Fulham","D(L)",NA,NA
+"863","John Arne Riise",2013,"17(3)",1488,1.6,1.6,0.7,0.2,4.5,0.7,0.5,0,6.64,"Fulham","D(L)",NA,NA
+"864","Kieran Gibbs",2012,"23(4)",2100,2.8,2.4,0.7,0.6,2.9,0.8,0.3,0,7.11,"Arsenal","D(L)","arsenal-fc",4250000
+"865","Kieran Gibbs",2013,"24(4)",2055,2.4,1.9,0.6,0.3,4.3,0.7,0.1,0,7.06,"Arsenal","D(L)","arsenal-fc",6800000
+"866","Kieran Gibbs",2014,"18(4)",1658,2,2.5,0.8,0.1,2.8,0.5,0.1,1,7.06,"Arsenal","D(L)","arsenal-fc",11050000
+"867","Luke Shaw",2012,"22(3)",1951,2,2,0.6,0,3.6,0.4,0.2,0,6.96,"Southampton","D(L)","southampton-fc",NA
+"868","Luke Shaw",2013,"35",2995,2.1,1.1,0.8,0.3,3.5,0.6,0.1,0,7.16,"Southampton","D(L)","southampton-fc",3830000
+"869","Martin Olsson",2009,"19(2)",1721,1.3,1.3,0.8,0,2.3,0.2,0.2,0,6.91,"Blackburn","D(L)",NA,NA
+"870","Martin Olsson",2010,"25(4)",2371,1.1,1.2,0.7,0.1,2.6,0.2,0.3,0,6.75,"Blackburn","D(L)",NA,NA
+"871","Martin Olsson",2011,"23(4)",2180,1.4,1.7,0.3,0.3,3.6,0.3,0.3,1,6.6,"Blackburn","D(L)",NA,NA
+"872","Martin Olsson",2013,"33(1)",2965,1.3,1.2,0.2,0.2,3.3,0.3,0.6,0,6.69,"Norwich","D(L)",NA,NA
+"873","Martin Olsson",2015,"20(4)",1773,1.1,1,0.8,0.2,2.8,0.4,0.2,0,6.48,"Norwich","D(L)",NA,NA
+"874","Nicky Shorey",2010,"25(3)",2311,1.3,1.1,0.3,0.1,2,0.3,0.4,1,6.5,"West Bromwich Albion","D(L)","west-bromwich-albion",3400000
+"875","Nicky Shorey",2011,"22(3)",2016,0.8,1.2,0.4,0.1,2.2,0.4,0.2,0,6.42,"West Bromwich Albion","D(L)","west-bromwich-albion",2550000
+"876","Paul Konchesky",2009,"27",2367,1.2,2,0.8,0.3,2.6,0.6,0.1,0,6.68,"Fulham","D(L)",NA,NA
+"877","Paul Konchesky",2014,"26",2250,1.5,1.6,0.8,0.3,3.1,0.5,0.2,0,6.46,"Leicester","D(L)","leicester-city",510000
+"878","Stephen Ward",2009,"18(4)",1577,2.1,1.3,0.8,0.1,5,0.6,0.3,0,6.83,"Wolverhampton Wanderers","D(L)",NA,NA
+"879","Stephen Ward",2010,"27(7)",2396,1.4,0.7,0.6,0.2,1.7,0.4,0.1,0,6.43,"Wolverhampton Wanderers","D(L)",NA,NA
+"880","Stephen Ward",2011,"38",3420,1.3,1.6,0.4,0.3,3.4,0.3,0.5,0,6.63,"Wolverhampton Wanderers","D(L)",NA,NA
+"881","Wayne Bridge",2009,"23",1897,2.2,2.8,0.7,0.1,3.9,0.5,0.2,0,7.01,"Manchester City","D(L)","manchester-city",6380000
+"882","Ledley King",2009,"19(1)",1548,1.6,2.4,0.5,1.2,6.6,0.2,1.3,0,7.21,"Tottenham","D(L),DMC","tottenham-hotspur",8080000
+"883","Ledley King",2011,"21",1795,0.8,1.9,0.5,0.7,6.3,0,0.8,0,6.82,"Tottenham","D(L),DMC","tottenham-hotspur",5100000
+"884","Nathan Ake",2015,"20(4)",1875,3.3,3.2,1.2,0.3,3,0.6,0.3,0,7.15,"Watford","D(L),DMC","chelsea-fc",1280000
+"885","Nathan Ake",2015,"20(4)",1875,3.3,3.2,1.2,0.3,3,0.6,0.3,0,7.15,"Watford","D(L),DMC","watford-fc",1280000
+"886","Jack Colback",2011,"29(6)",2668,2,1.8,0.8,0.1,1.5,0.6,0.5,0,6.74,"Sunderland","D(L),M(C)","sunderland-afc",1060000
+"887","Jack Colback",2012,"30(5)",2812,2.5,2,1,0,1.6,0.8,0.6,0,6.83,"Sunderland","D(L),M(C)","sunderland-afc",3830000
+"888","Jack Colback",2013,"28(5)",2425,1.7,1.2,1.4,0,1.4,0.8,0.2,0,6.72,"Sunderland","D(L),M(C)","sunderland-afc",5100000
+"889","Jack Colback",2014,"35",3129,2.9,1.9,1.6,0,1.2,1.1,0.2,0,6.91,"Newcastle United","D(L),M(C)",NA,NA
+"890","Jack Colback",2015,"28(1)",2397,2.8,2.1,1.7,0,1.3,1.2,0.4,0,6.9,"Newcastle United","D(L),M(C)",NA,NA
+"891","Kieran Richardson",2009,"28(1)",2418,2,2.1,1.7,0,2.7,0.3,0.3,0,6.78,"Sunderland","D(L),M(CL)","sunderland-afc",4760000
+"892","Kieran Richardson",2010,"23(3)",2041,1.9,0.9,1.6,0.1,1.7,0.4,0.3,0,6.85,"Sunderland","D(L),M(CL)","sunderland-afc",4680000
+"893","Kieran Richardson",2011,"26(3)",2285,1.5,1.9,0.6,0.1,2.9,0.6,0.4,0,6.84,"Sunderland","D(L),M(CL)","sunderland-afc",4250000
+"894","Kieran Richardson",2013,"28(3)",2381,2,1.3,0.5,0.1,2.9,0.7,0.2,0,6.78,"Fulham","D(L),M(CL)",NA,NA
+"895","Kieran Richardson",2014,"16(6)",1345,1.1,0.7,0.6,0.1,1.1,0.8,0.3,0,6.36,"Aston Villa","D(L),M(CL)",NA,NA
+"896","Robbie Brady",2014,"17(10)",1756,1.6,1.1,0.6,0,2.3,0.9,0.1,0,6.95,"Hull","D(L),M(CL)","hull-city",2550000
+"897","Robbie Brady",2015,"34(2)",2988,2.8,1.6,1.1,0.2,2.4,1,0.1,0,7.15,"Norwich","D(L),M(CL)",NA,NA
+"898","Chris Brunt",2010,"34",3016,2.2,1.5,1.2,0.1,1.4,1.1,0.3,0,7.23,"West Bromwich Albion","D(L),M(CLR)","west-bromwich-albion",4250000
+"899","Chris Brunt",2011,"25(4)",2310,1.6,1.5,1,0,1,0.8,0.3,0,6.98,"West Bromwich Albion","D(L),M(CLR)","west-bromwich-albion",5530000
+"900","Chris Brunt",2012,"23(8)",2182,1.7,1.1,0.9,0,0.9,1.1,0.1,0,6.84,"West Bromwich Albion","D(L),M(CLR)","west-bromwich-albion",5530000
+"901","Chris Brunt",2013,"25(3)",2243,1.5,1.8,0.9,0,1.5,1,0.3,0,7.01,"West Bromwich Albion","D(L),M(CLR)","west-bromwich-albion",5100000
+"902","Chris Brunt",2014,"33(1)",2898,2.2,2,0.9,0.1,2.5,1.3,0.1,0,7.19,"West Bromwich Albion","D(L),M(CLR)","west-bromwich-albion",4250000
+"903","Chris Brunt",2015,"20(2)",1803,1.3,1.7,0.8,0.1,3.1,0.9,0.5,0,6.8,"West Bromwich Albion","D(L),M(CLR)","west-bromwich-albion",3400000
+"904","James Milner",2009,"36",3175,2.6,1.8,1.4,0,0.9,0.9,0.4,1,7.37,"Aston Villa","D(L),M(CLR)",NA,NA
+"905","James Milner",2010,"23(9)",2050,1.6,1.3,0.8,0,0.6,0.6,0.2,0,6.77,"Manchester City","D(L),M(CLR)","manchester-city",14450000
+"906","James Milner",2011,"17(9)",1579,1.6,1.3,0.8,0,0.9,0.6,0.2,0,6.91,"Manchester City","D(L),M(CLR)","manchester-city",1.7e+07
+"907","James Milner",2012,"19(7)",1721,1.4,0.8,1.3,0,0.8,0.5,0,0,7.02,"Manchester City","D(L),M(CLR)","manchester-city",17850000
+"908","James Milner",2013,"12(19)",1359,1,0.3,0.7,0,0.4,0.5,0,0,6.59,"Manchester City","D(L),M(CLR)","manchester-city",14450000
+"909","James Milner",2014,"18(14)",1744,1.7,0.7,0.9,0,0.4,1.2,0.1,0,7.02,"Manchester City","D(L),M(CLR)","manchester-city",12750000
+"910","James Milner",2015,"28",2416,2.5,1.3,1.7,0,0.8,1.9,0.1,0,7.21,"Liverpool","D(L),M(CLR)","liverpool-fc",11900000
+"911","James Milner",2016,"12",1063,2.1,1,0.5,0.3,2.5,1.8,0.1,0,7.27,"Liverpool","D(L),M(CLR)","liverpool-fc",12750000
+"912","Aaron Cresswell",2014,"38",3420,1.2,0.9,0.4,0.2,3.9,0.6,0.6,0,6.85,"West Ham","D(L),M(L)","west-ham-united",1280000
+"913","Aaron Cresswell",2015,"37",3315,1,1.9,0.6,0.2,2.4,0.5,0.5,0,6.81,"West Ham","D(L),M(L)","west-ham-united",5950000
+"914","Alberto Moreno",2014,"26(2)",2263,1.9,1.2,1.3,0,1.6,0.4,0.1,0,6.72,"Liverpool","D(L),M(L)","liverpool-fc",8500000
+"915","Alberto Moreno",2015,"28(4)",2548,2.9,2,0.9,0,1.5,1,0.2,0,7.05,"Liverpool","D(L),M(L)","liverpool-fc",12750000
+"916","Andrew Robertson",2014,"17(7)",1527,2.1,1.7,0.5,0,2.1,1.3,0.3,0,6.72,"Hull","D(L),M(L)","hull-city",510000
+"917","Armand Traore",2011,"18(5)",1617,1.3,1.5,0.6,0,2.8,0.4,0.2,0,6.66,"Queens Park Rangers","D(L),M(L)",NA,NA
+"918","Armand Traore",2012,"24(2)",2096,2.2,2,0.3,0.1,3.6,0.8,0.2,0,6.83,"Queens Park Rangers","D(L),M(L)",NA,NA
+"919","Christian Fuchs",2015,"30(2)",2710,3.1,3.1,1,0.3,3.8,1.7,0.3,0,7.5,"Leicester","D(L),M(L)","leicester-city",2550000
+"920","Christian Fuchs",2016,"14",1238,2.5,2.4,1.1,0.4,3.6,1.7,0.4,0,7.09,"Leicester","D(L),M(L)","leicester-city",5100000
+"921","Declan John",2013,"16(4)",1488,1.3,0.5,0.2,0.3,1.5,0.6,0.1,0,6.32,"Cardiff","D(L),M(L)",NA,NA
+"922","Jean Beausejour",2012,"32(2)",2787,1.2,1.1,0.9,0.2,1.7,0.3,0.1,0,6.74,"Wigan","D(L),M(L)",NA,NA
+"923","Jeffrey Schlupp",2014,"30(2)",2539,2.5,1.9,0.9,0,1.9,1,0.1,1,7.11,"Leicester","D(L),M(L)","leicester-city",765000
+"924","Jeffrey Schlupp",2015,"14(10)",1385,1.9,1.3,0.6,0.1,0.9,0.6,0,0,6.86,"Leicester","D(L),M(L)","leicester-city",2550000
+"925","Joe Bennett",2012,"21(4)",1855,1.7,1.8,0.8,0.3,3.8,0.4,0.8,0,6.66,"Aston Villa","D(L),M(L)","middlesbrough-fc",1060000
+"926","Jose Enrique",2010,"36",3126,1.7,1.6,0.4,0.5,1.7,0.3,0.3,0,6.97,"Newcastle United","D(L),M(L)",NA,NA
+"927","Jose Enrique",2011,"33(2)",2992,2,0.9,0.4,0.2,1.3,0.3,0.1,0,6.84,"Liverpool","D(L),M(L)","liverpool-fc",4680000
+"928","Jose Enrique",2012,"25(4)",2258,2.5,1.2,0.5,0.2,1.7,0.3,0.1,0,7.01,"Liverpool","D(L),M(L)","liverpool-fc",11050000
+"929","Jose Holebas",2016,"13",1136,1.8,2.1,1.2,0,3.5,0.5,0.3,0,7.14,"Watford","D(L),M(L)","watford-fc",1700000
+"930","Leighton Baines",2009,"37",3330,1.9,2.1,0.5,0.2,3.8,0.6,0.2,0,7.23,"Everton","D(L),M(L)","everton-fc",5530000
+"931","Leighton Baines",2010,"38",3420,2.2,1.3,0.8,0.3,2.7,0.6,0.3,0,7.2,"Everton","D(L),M(L)","everton-fc",6800000
+"932","Leighton Baines",2011,"33",2970,1.7,2,0.9,0.2,2.3,0.3,0.4,0,7.13,"Everton","D(L),M(L)","everton-fc",11900000
+"933","Leighton Baines",2012,"38",3420,2.4,1.5,0.8,0.1,2,0.6,0.2,1,7.42,"Everton","D(L),M(L)","everton-fc",16150000
+"934","Leighton Baines",2013,"32",2840,2.9,1.1,0.8,0,2.5,0.6,0.2,0,7.25,"Everton","D(L),M(L)","everton-fc",18700000
+"935","Leighton Baines",2014,"31",2774,1.7,1.5,0.7,0.2,2.8,0.5,0.2,0,7.26,"Everton","D(L),M(L)","everton-fc",1.7e+07
+"936","Leighton Baines",2015,"16(2)",1477,1.9,1.6,0.3,0.2,2.3,0.8,0.3,0,6.86,"Everton","D(L),M(L)","everton-fc",15300000
+"937","Leighton Baines",2016,"8",713,1.8,2.1,0.8,0.1,1.8,1,0.1,0,7.06,"Everton","D(L),M(L)","everton-fc",11050000
+"938","Neil Taylor",2011,"35(1)",3088,2.5,1.1,0.7,0.2,2.7,0.7,0.3,1,6.75,"Swansea","D(L),M(L)","swansea-city",213000
+"939","Neil Taylor",2014,"34",3000,2.3,2.2,0.9,0.1,3.1,0.6,0.4,0,6.95,"Swansea","D(L),M(L)","swansea-city",2980000
+"940","Neil Taylor",2015,"33(1)",2947,1.2,1.9,1.1,0.2,2,0.7,0.3,0,6.57,"Swansea","D(L),M(L)","swansea-city",2980000
+"941","Pape Souare",2015,"34",3016,0.9,2.5,0.7,0.1,3.6,0.3,0.5,1,6.69,"Crystal Palace","D(L),M(L)","crystal-palace",4250000
+"942","Patrice Evra",2009,"37(1)",3288,2.7,1.9,1.1,0.1,3.3,0.8,0.4,0,7.42,"Manchester United","D(L),M(L)","manchester-united",19550000
+"943","Patrice Evra",2010,"34(1)",2963,2.3,2.3,1.2,0,2.7,0.6,0.2,1,7.1,"Manchester United","D(L),M(L)","manchester-united",22950000
+"944","Patrice Evra",2011,"37",3239,2.8,1.4,1,0.1,4.6,0.8,0.2,0,7.38,"Manchester United","D(L),M(L)","manchester-united",22950000
+"945","Patrice Evra",2012,"34",3060,2.4,1.5,1,0.1,4.9,0.6,0.4,0,7.3,"Manchester United","D(L),M(L)","manchester-united",13180000
+"946","Patrice Evra",2013,"33",2884,2.4,1.5,1.1,0.1,5.5,0.9,0.2,0,7.32,"Manchester United","D(L),M(L)","manchester-united",11050000
+"947","Patrick van Aanholt",2014,"26(2)",2306,2.7,2.4,0.8,0.1,3,1.3,0.6,1,7.09,"Sunderland","D(L),M(L)","sunderland-afc",2980000
+"948","Patrick van Aanholt",2015,"33",2970,2.6,1.9,0.5,0.1,3.1,1.2,0.3,0,7.11,"Sunderland","D(L),M(L)","sunderland-afc",2550000
+"949","Stephen Crainey",2010,"31",2749,2.2,1.2,0.6,0.3,4.6,0.8,0.7,0,6.76,"Blackpool","D(L),M(L)",NA,NA
+"950","Yun Suk0Young",2014,"19(4)",1726,2,1.8,0.7,0.6,4.2,1.2,0.3,0,6.66,"Queens Park Rangers","D(L),M(L)",NA,NA
+"951","Ikechi Anya",2015,"17(11)",1680,0.6,1.6,0,0.1,1.2,0.3,0.1,0,6.5,"Watford","D(L),M(LR),FW","watford-fc",1700000
+"952","Andy Wilkinson",2009,"21(4)",2034,3,2.1,1.1,0.1,5.1,0.6,0.3,0,6.86,"Stoke","D(LR)","stoke-city",1020000
+"953","Andy Wilkinson",2010,"21(1)",1752,3.3,1.7,0.9,0.2,3.6,0.9,0.2,0,6.8,"Stoke","D(LR)","stoke-city",1700000
+"954","Andy Wilkinson",2011,"20(5)",1709,2.4,1,1.1,0.2,5.5,0.7,0.3,0,6.5,"Stoke","D(LR)","stoke-city",2130000
+"955","Andy Wilkinson",2012,"19(5)",1730,2.1,1.6,1.1,0.2,3.7,1,0.2,1,6.58,"Stoke","D(LR)","stoke-city",2980000
+"956","Bernard Mendy",2009,"15(6)",1391,2,1.2,1.2,0.1,2.9,0.4,0.3,0,6.59,"Hull","D(LR)","hull-city",2210000
+"957","Billy Jones",2011,"17(1)",1608,1.8,1.1,0.8,0.3,2.5,0.2,0.3,1,6.6,"West Bromwich Albion","D(LR)","west-bromwich-albion",850000
+"958","Billy Jones",2012,"24(3)",2210,2,1,1,0.2,3.3,0.4,0.3,0,6.78,"West Bromwich Albion","D(LR)","west-bromwich-albion",1280000
+"959","Billy Jones",2013,"21",1741,2,1.2,0.8,0.3,3.7,0.4,0.5,0,6.95,"West Bromwich Albion","D(LR)","west-bromwich-albion",2130000
+"960","Billy Jones",2015,"23(1)",2033,3.2,1.3,1.3,0.1,2.7,1.2,0.7,0,6.75,"Sunderland","D(LR)","sunderland-afc",1280000
+"961","Davide Santon",2011,"19(5)",1665,1.6,1.6,0.4,0.2,1.8,0.6,0.1,0,6.67,"Newcastle United","D(LR)",NA,NA
+"962","Davide Santon",2012,"31",2645,2.2,1.5,0.7,0.4,4.5,0.8,0.3,0,6.95,"Newcastle United","D(LR)",NA,NA
+"963","Davide Santon",2013,"26(1)",2224,1.6,2.1,0.7,0.1,3.6,0.9,0.2,0,7,"Newcastle United","D(LR)",NA,NA
+"964","Fabio",2012,"13(8)",1133,2.3,1.6,1.1,0.1,2.6,0.5,0.3,0,6.71,"Queens Park Rangers","D(LR)",NA,NA
+"965","Glen Johnson",2009,"24(1)",2141,3,2.4,1,0.2,2.6,0.8,0.1,1,7.61,"Liverpool","D(LR)","liverpool-fc",9350000
+"966","Glen Johnson",2010,"28",2438,2.5,1.7,0.9,0.2,2.9,0.6,0.3,0,7.23,"Liverpool","D(LR)","liverpool-fc",14450000
+"967","Glen Johnson",2011,"22(1)",1952,1.9,1.9,0.6,0.1,1.9,0.5,0.3,0,7.02,"Liverpool","D(LR)","liverpool-fc",12750000
+"968","Glen Johnson",2012,"36",3224,2.5,1.6,0.8,0.2,3.3,0.8,0.3,0,7.26,"Liverpool","D(LR)","liverpool-fc",10200000
+"969","Glen Johnson",2013,"29",2521,2.2,1.7,0.8,0.1,2.4,0.8,0.3,1,7.14,"Liverpool","D(LR)","liverpool-fc",10200000
+"970","Glen Johnson",2014,"15(4)",1331,1.6,0.9,0.4,0.1,2.3,0.6,0.2,0,6.79,"Liverpool","D(LR)","liverpool-fc",10200000
+"971","Glen Johnson",2015,"25",2186,1.6,2,0.4,0.2,1.1,1.3,0.5,0,6.92,"Stoke","D(LR)","stoke-city",5950000
+"972","Joey O'Brien",2012,"32(1)",2724,1.6,0.9,0.8,0.1,5,0.6,0.5,1,6.87,"West Ham","D(LR)","west-ham-united",850000
+"973","Jon Flanagan",2013,"23",1899,3.4,1.7,1.1,0.1,3.3,1.7,0.2,0,7.07,"Liverpool","D(LR)","liverpool-fc",NA
+"974","Kyle Naughton",2011,"29(3)",2703,3,1.8,0.6,0.1,4.7,0.8,0.5,0,6.92,"Norwich","D(LR)","tottenham-hotspur",1700000
+"975","Kyle Naughton",2013,"19(3)",1745,2.7,1.5,1,0.3,2.3,0.9,0.2,0,6.71,"Tottenham","D(LR)","tottenham-hotspur",4250000
+"976","Kyle Naughton",2015,"19(8)",1763,1.5,1.8,0.9,0.1,2.4,0.9,0.1,0,6.67,"Swansea","D(LR)","swansea-city",5100000
+"977","Lars Jacobsen",2010,"22(2)",1995,1.4,1,0.3,0.2,3.6,0.2,0.5,0,6.45,"West Ham","D(LR)","west-ham-united",2130000
+"978","Martin Kelly",2014,"27(4)",2499,3,1.5,1.2,0.1,4.4,0.7,0.4,0,6.89,"Crystal Palace","D(LR)","crystal-palace",4250000
+"979","Nyom",2015,"29(3)",2475,2.6,1.9,1.2,0.4,2.2,0.8,0.2,0,6.76,"Watford","D(LR)",NA,NA
+"980","Phil Bardsley",2009,"18(8)",1698,2.2,1.3,1.5,0,4.2,0.5,0.4,0,6.54,"Sunderland","D(LR)","sunderland-afc",2720000
+"981","Phil Bardsley",2010,"32(2)",2824,2.7,1.8,0.6,0.3,4.6,0.4,0.4,0,7.07,"Sunderland","D(LR)","sunderland-afc",2550000
+"982","Phil Bardsley",2011,"29(2)",2480,2.5,1.8,0.6,0.1,3.5,0.4,0.6,0,6.88,"Sunderland","D(LR)","sunderland-afc",3400000
+"983","Phil Bardsley",2013,"26",2249,2.3,0.9,0.9,0.1,2.3,0.5,0.8,2,6.87,"Sunderland","D(LR)","sunderland-afc",3400000
+"984","Phil Bardsley",2014,"24(1)",2082,2.8,1.4,1,0.1,2.9,0.8,0.6,0,6.95,"Stoke","D(LR)","stoke-city",2550000
+"985","Ritchie de Laet",2014,"20(6)",1884,2.4,2.7,1,0.2,4.2,1.1,0.5,0,6.99,"Leicester","D(LR)",NA,NA
+"986","Stephen Kelly",2011,"21(3)",2021,1.5,1.6,0.5,0.1,4.6,0.4,0.3,0,6.69,"Fulham","D(LR)",NA,NA
+"987","Steven Whittaker",2013,"16(4)",1423,2.2,2.1,0.9,0.1,2.9,0.8,0.3,0,6.8,"Norwich","D(LR)",NA,NA
+"988","Chris Baird",2009,"29(3)",2659,1.8,3.1,0.8,0,4.4,0.7,0.6,2,6.99,"Fulham","D(LR),DMC",NA,NA
+"989","Chris Baird",2010,"25(4)",2386,2.4,1.6,0.6,0.1,4.2,1.1,0.4,0,7.07,"Fulham","D(LR),DMC",NA,NA
+"990","Chris Baird",2011,"13(6)",1269,1.4,2.3,0.7,0.4,3.5,0.6,0.5,2,6.67,"Fulham","D(LR),DMC",NA,NA
+"991","Chris Baird",2012,"14(5)",1315,1.4,3.2,0.9,0,1.7,0.8,0.7,0,6.81,"Fulham","D(LR),DMC",NA,NA
+"992","Chris Baird",2014,"9(10)",803,0.9,0.9,0.5,0.2,2.3,0.2,0.3,0,6.43,"West Bromwich Albion","D(LR),DMC","west-bromwich-albion",595000
+"993","Joel Ward",2013,"36",3240,3.2,2.4,0.9,0.2,4.7,0.8,0.3,0,7.28,"Crystal Palace","D(LR),DMC","crystal-palace",1060000
+"994","Joel Ward",2014,"37",3330,2.6,1.6,1,0.1,4.9,0.9,0.4,0,7.04,"Crystal Palace","D(LR),DMC","crystal-palace",1700000
+"995","Joel Ward",2015,"30",2692,2.1,2.3,1.2,0.1,3.6,0.9,0.5,0,6.94,"Crystal Palace","D(LR),DMC","crystal-palace",3400000
+"996","Vurnon Anita",2012,"17(8)",1730,1.4,0.8,0.8,0,1.2,0.5,0.1,0,6.44,"Newcastle United","D(LR),DMC,M(R)",NA,NA
+"997","Vurnon Anita",2013,"28(6)",2463,1.4,1.3,0.7,0,0.8,0.6,0.3,0,6.61,"Newcastle United","D(LR),DMC,M(R)",NA,NA
+"998","Vurnon Anita",2014,"17(2)",1276,2.3,2.2,0.9,0.1,1.4,0.5,0.1,0,6.53,"Newcastle United","D(LR),DMC,M(R)",NA,NA
+"999","Vurnon Anita",2015,"24(4)",2108,2.6,2,1,0.1,1.4,1,0.3,0,6.71,"Newcastle United","D(LR),DMC,M(R)",NA,NA
+"1000","Leandro Bacuna",2013,"28(7)",2595,2.3,1.7,1.2,0.4,2.5,1,0.1,0,6.76,"Aston Villa","D(LR),M(CR)",NA,NA
+"1001","Leandro Bacuna",2014,"10(9)",981,1.3,0.7,0.8,0.2,0.9,0.8,0,0,6.54,"Aston Villa","D(LR),M(CR)",NA,NA
+"1002","Leandro Bacuna",2015,"27(4)",2418,1.5,1.8,1.2,0.2,1.7,0.8,0.1,0,6.63,"Aston Villa","D(LR),M(CR)",NA,NA
+"1003","Liam Rosenior",2013,"22(7)",1988,2.5,1.2,0.5,0.1,2.4,0.7,0.3,0,6.86,"Hull","D(LR),M(LR)","hull-city",850000
+"1004","Chris Gunter",2012,"20",1790,1.1,1,0.6,0.4,4.2,0.3,0.4,0,6.48,"Reading","D(LR),M(R)",NA,NA
+"1005","Matthew Lowton",2012,"37",3267,2.8,3,0.9,0.4,5.4,1.1,0.4,0,7.14,"Aston Villa","D(LR),M(R)",NA,NA
+"1006","Matthew Lowton",2013,"18(5)",1663,1.7,1.3,0.7,0.3,2.4,1.2,0.3,0,6.53,"Aston Villa","D(LR),M(R)",NA,NA
+"1007","Adam Smith",2015,"22(9)",2097,2.3,1.4,1.1,0.1,1.6,0.9,0.2,0,6.87,"Bournemouth","D(R)","afc-bournemouth",255000
+"1008","Adam Smith",2016,"13",1170,1.8,2,1.2,0.1,2.3,1.3,0.6,0,7.05,"Bournemouth","D(R)","afc-bournemouth",1700000
+"1009","Alan Hutton",2010,"19(2)",1704,2.3,1.4,0.8,0.3,3.2,0.6,0.5,0,7,"Tottenham","D(R)","tottenham-hotspur",4680000
+"1010","Alan Hutton",2011,"29(2)",2594,2.3,1.8,0.6,0.2,3.6,0.6,0.5,0,6.78,"Aston Villa","D(R)",NA,NA
+"1011","Alan Hutton",2014,"27(3)",2418,1.6,1.2,0.6,0.3,3.4,0.5,0.5,0,6.83,"Aston Villa","D(R)",NA,NA
+"1012","Alan Hutton",2015,"26(2)",2330,2,1.9,1,0.1,1.9,0.5,0.4,2,6.45,"Aston Villa","D(R)",NA,NA
+"1013","Angel Rangel",2011,"32(2)",2872,2.5,2.8,0.8,0.1,3.3,0.9,0.5,0,7,"Swansea","D(R)",NA,NA
+"1014","Angel Rangel",2012,"30(3)",2750,2.5,2.5,1,0,4.4,0.8,0.3,0,7.18,"Swansea","D(R)",NA,NA
+"1015","Angel Rangel",2013,"29(1)",2632,2.8,3.1,1.4,0.1,3.1,1.2,0.3,0,7.14,"Swansea","D(R)",NA,NA
+"1016","Angel Rangel",2014,"22(5)",2036,2,2.5,1,0.1,3.3,1.1,0.5,0,6.89,"Swansea","D(R)",NA,NA
+"1017","Angel Rangel",2015,"20(3)",1822,1.8,2.6,0.8,0.3,3.1,0.8,0.3,0,6.89,"Swansea","D(R)",NA,NA
+"1018","Anthony Vanden Borre",2009,"15(4)",1325,2.8,2.2,1.2,0.2,1.8,0.8,0.3,1,6.74,"Portsmouth","D(R)",NA,NA
+"1019","Antonio Barragan",2016,"13",1149,3.1,2.3,1.5,0.3,3.7,1.2,0.3,0,7.01,"Middlesbrough","D(R)","middlesbrough-fc",2980000
+"1020","Carl Jenkinson",2014,"29(3)",2667,1.1,1.1,0.4,0.2,3.6,0.5,0.4,0,6.65,"West Ham","D(R)","arsenal-fc",5100000
+"1021","Carl Jenkinson",2014,"29(3)",2667,1.1,1.1,0.4,0.2,3.6,0.5,0.4,0,6.65,"West Ham","D(R)","west-ham-united",5100000
+"1022","Carl Jenkinson",2015,"13(7)",1226,1.2,1,0.7,0.1,2.7,0.5,0.3,1,6.36,"West Ham","D(R)","arsenal-fc",5950000
+"1023","Carl Jenkinson",2015,"13(7)",1226,1.2,1,0.7,0.1,2.7,0.5,0.3,1,6.36,"West Ham","D(R)","west-ham-united",5950000
+"1024","Danny Simpson",2010,"30",2686,1.6,1.9,0.7,0.5,3.2,0.7,0.6,0,6.59,"Newcastle United","D(R)",NA,NA
+"1025","Danny Simpson",2011,"35",3120,1.9,1.7,0.7,0.2,3.6,0.5,0.5,0,6.78,"Newcastle United","D(R)",NA,NA
+"1026","Danny Simpson",2012,"18(1)",1525,1.8,0.6,0.9,0.2,4.9,0.3,0.1,0,6.55,"Newcastle United","D(R)",NA,NA
+"1027","Danny Simpson",2015,"30",2613,1.7,3.1,1,0.3,4.2,0.7,0.6,0,7.13,"Leicester","D(R)","leicester-city",1700000
+"1028","DeAndre Yedlin",2015,"21(2)",1813,1.7,1.1,0.9,0.3,3.9,0.6,0.6,0,6.84,"Sunderland","D(R)","sunderland-afc",1280000
+"1029","DeAndre Yedlin",2015,"21(2)",1813,1.7,1.1,0.9,0.3,3.9,0.6,0.6,0,6.84,"Sunderland","D(R)","tottenham-hotspur",1280000
+"1030","Emmanuel Eboue",2009,"17(8)",1496,1.7,1.4,0.8,0.1,0.6,0.3,0.2,0,7.01,"Arsenal","D(R)","arsenal-fc",5950000
+"1031","Gretar Steinsson",2009,"25(2)",2218,2.5,1.9,0.9,0.3,5.1,0.5,0.3,0,6.86,"Bolton","D(R)",NA,NA
+"1032","Gretar Steinsson",2010,"23",1990,2.9,1.9,1.1,0.3,5.3,0.4,0.2,0,6.96,"Bolton","D(R)",NA,NA
+"1033","Gretar Steinsson",2011,"20(3)",1883,1.5,1.9,0.9,0.1,4.2,0.6,0.7,1,6.55,"Bolton","D(R)",NA,NA
+"1034","Guy Demel",2012,"28(3)",2479,1.4,1.2,0.6,0.3,3.4,0.3,0.4,0,6.75,"West Ham","D(R)","west-ham-united",850000
+"1035","Guy Demel",2013,"30(2)",2638,1.6,1.1,0.8,0.1,3.3,0.2,0.5,1,6.83,"West Ham","D(R)","west-ham-united",850000
+"1036","John Pantsil",2009,"22",1900,2.3,2,1,0.2,5.5,0.4,0.4,1,7,"Fulham","D(R)",NA,NA
+"1037","Kevin Foley",2009,"23(2)",1983,0.9,1.4,0.9,0.1,1.6,0.4,0.3,0,6.64,"Wolverhampton Wanderers","D(R)",NA,NA
+"1038","Kevin Foley",2010,"30(3)",2728,1.1,1.9,0.5,0.1,2.4,0.2,0.2,0,6.57,"Wolverhampton Wanderers","D(R)",NA,NA
+"1039","Kieran Trippier",2014,"38",3416,1.9,2.2,0.4,0.2,4,1.2,0.3,0,7.15,"Burnley","D(R)","burnley-fc",1790000
+"1040","Kyle Walker",2011,"37",3231,2.6,1.8,0.9,0.2,3.2,0.6,0.2,0,7.13,"Tottenham","D(R)","tottenham-hotspur",1700000
+"1041","Kyle Walker",2012,"36",3161,2.3,2.4,0.8,0.4,5.1,0.4,0.3,0,7.16,"Tottenham","D(R)","tottenham-hotspur",13600000
+"1042","Kyle Walker",2013,"26",2298,2,2.2,1,0.3,2.7,1,0.2,0,7.06,"Tottenham","D(R)","tottenham-hotspur",13600000
+"1043","Kyle Walker",2015,"33",2943,2.6,2.8,0.9,0.3,3.2,0.8,0.2,1,7.19,"Tottenham","D(R)","tottenham-hotspur",14450000
+"1044","Kyle Walker",2016,"14",1187,2.4,1.4,1.1,0.4,3.4,0.5,0.4,0,7.37,"Tottenham","D(R)","tottenham-hotspur",12750000
+"1045","Mario Melchiot",2009,"32",2853,2.1,1.7,0.8,0.2,4,0.3,0.3,0,6.72,"Wigan","D(R)",NA,NA
+"1046","Mathieu Debuchy",2013,"28(1)",2494,3.3,2.4,1.4,0.1,4.8,0.8,0.4,1,7.44,"Newcastle United","D(R)",NA,NA
+"1047","Michel Salgado",2009,"16(5)",1436,2.4,1.7,1.3,0.1,3,0.8,0.3,0,6.69,"Blackburn","D(R)",NA,NA
+"1048","Michel Salgado",2010,"36",3034,2.9,2.4,1.2,0.3,3.5,0.9,0.6,0,6.88,"Blackburn","D(R)",NA,NA
+"1049","Neal Eardley",2010,"30(1)",2561,1.7,1.6,0.5,0.7,3.6,0.4,0.5,1,6.75,"Blackpool","D(R)",NA,NA
+"1050","Pablo Zabaleta",2009,"23(4)",2102,3.9,2.6,1.3,0.4,3.7,1.2,0.2,0,7.13,"Manchester City","D(R)","manchester-city",6970000
+"1051","Pablo Zabaleta",2010,"21(5)",1946,3.1,2.7,1.5,0.2,3.5,1.1,0.3,0,7.27,"Manchester City","D(R)","manchester-city",7650000
+"1052","Pablo Zabaleta",2011,"18(3)",1549,3.3,2.1,1.2,0,2.4,0.8,0.3,0,7.29,"Manchester City","D(R)","manchester-city",10200000
+"1053","Pablo Zabaleta",2012,"29(1)",2652,3.8,1.9,1.5,0.2,3.7,1.2,0.2,0,7.18,"Manchester City","D(R)","manchester-city",12330000
+"1054","Pablo Zabaleta",2013,"34(1)",3079,3.4,2,1.5,0.3,2.5,1.1,0.3,0,7.25,"Manchester City","D(R)","manchester-city",13600000
+"1055","Pablo Zabaleta",2014,"29",2586,3.7,2,1,0.2,2.9,1.4,0.2,1,7.23,"Manchester City","D(R)","manchester-city",16150000
+"1056","Paulo Ferreira",2010,"12(9)",1038,1.9,1.3,0.4,0,1.5,0.4,0.3,0,6.65,"Chelsea","D(R)","chelsea-fc",2550000
+"1057","Sascha Riether",2012,"35",3045,1.6,1.6,0.6,0.3,3.5,0.3,0.4,0,6.83,"Fulham","D(R)",NA,NA
+"1058","Sascha Riether",2013,"30(1)",2647,1.3,1,0.4,0.3,3.2,0.5,0.5,1,6.52,"Fulham","D(R)",NA,NA
+"1059","Stephen Carr",2009,"35",3112,1.9,2,1.1,0.2,4.2,0.3,0.6,0,6.82,"Birmingham","D(R)",NA,NA
+"1060","Stephen Carr",2010,"38",3375,1.6,1.9,0.8,0.1,3.6,0.4,0.4,1,6.56,"Birmingham","D(R)",NA,NA
+"1061","Steve Finnan",2009,"20(1)",1810,2.3,1.9,0.6,0.2,5,0.4,0.3,0,6.75,"Portsmouth","D(R)",NA,NA
+"1062","Steven Reid",2010,"13(10)",1277,1.5,1.2,0.8,0.3,2.7,0.6,0.3,0,6.74,"West Bromwich Albion","D(R)","west-bromwich-albion",2550000
+"1063","Steven Reid",2011,"21(1)",1770,1.8,0.8,0.6,0.5,2.8,0.7,0.5,1,6.71,"West Bromwich Albion","D(R)","west-bromwich-albion",2130000
+"1064","Tony Hibbert",2009,"17(3)",1480,1.6,2.4,0.6,0.4,3.5,0.3,0.3,0,6.77,"Everton","D(R)","everton-fc",3400000
+"1065","Tony Hibbert",2010,"17(3)",1452,2.3,1.1,0.8,0.4,3.5,0.5,0.4,1,6.66,"Everton","D(R)","everton-fc",2980000
+"1066","Tony Hibbert",2011,"31(1)",2755,1.6,1.9,0.4,0.5,3.3,0.6,0.5,1,6.79,"Everton","D(R)","everton-fc",2550000
+"1067","Tyrone Mears",2009,"38",3420,2.5,2.2,1.2,0.3,4.7,0.3,0.7,0,6.87,"Burnley","D(R)","burnley-fc",1450000
+"1068","Dean Whitehead",2009,"33(3)",2899,1.9,2.7,1.4,0,2.3,0.8,0.4,0,6.8,"Stoke","D(R),DMC","stoke-city",2550000
+"1069","Dean Whitehead",2010,"31(6)",2897,1.9,2,1.2,0,1.4,0.9,0.5,0,6.61,"Stoke","D(R),DMC","stoke-city",2980000
+"1070","Dean Whitehead",2011,"24(9)",2363,1.7,1.4,1,0,1.8,0.7,0.5,0,6.54,"Stoke","D(R),DMC","stoke-city",3400000
+"1071","Dean Whitehead",2012,"12(14)",1388,1.2,1.5,1.1,0,1.1,0.5,0.5,0,6.43,"Stoke","D(R),DMC","stoke-city",2550000
+"1072","Jason Lowe",2011,"30(2)",2668,1.7,2.3,0.9,0.2,2.8,0.6,0.5,0,6.58,"Blackburn","D(R),DMC",NA,NA
+"1073","Michael Essien",2010,"32(1)",2802,1.5,1.6,1.2,0.1,1,0.5,0.3,0,7.24,"Chelsea","D(R),DMC","chelsea-fc",32300000
+"1074","Nigel Reo0Coker",2010,"24(6)",2076,3.4,1.3,1.4,0,0.6,0.6,0.3,0,6.7,"Aston Villa","D(R),M(C)",NA,NA
+"1075","Nigel Reo0Coker",2011,"37",3265,2.3,2.2,1.4,0.1,0.8,0.8,0.2,0,6.75,"Bolton","D(R),M(C)",NA,NA
+"1076","Craig Gardner",2010,"25(4)",2219,3.1,1.5,1.8,0,1.3,1.2,0.5,0,7,"Birmingham","D(R),M(CLR)",NA,NA
+"1077","Craig Gardner",2011,"22(8)",2116,2.5,1.3,1.4,0.1,1.9,0.7,0.8,0,6.79,"Sunderland","D(R),M(CLR)","sunderland-afc",3400000
+"1078","Craig Gardner",2012,"32(1)",2834,3.1,1.8,1.5,0.3,2.9,1.5,0.5,0,6.94,"Sunderland","D(R),M(CLR)","sunderland-afc",5100000
+"1079","Craig Gardner",2013,"7(11)",766,1.8,0.3,0.6,0,0.6,0.8,0.3,0,6.39,"Sunderland","D(R),M(CLR)","sunderland-afc",6380000
+"1080","Craig Gardner",2014,"30(5)",2684,2.7,1.6,1.6,0,1.7,1.5,0.3,0,6.99,"West Bromwich Albion","D(R),M(CLR)","west-bromwich-albion",3830000
+"1081","Craig Gardner",2015,"20(14)",2037,1.5,0.9,1.1,0,0.7,0.9,0.1,0,6.54,"West Bromwich Albion","D(R),M(CLR)","west-bromwich-albion",2550000
+"1082","Elliott Bennett",2011,"22(11)",2015,1.7,0.8,0.6,0,1.1,0.7,0.2,0,6.68,"Norwich","D(R),M(CLR)",NA,NA
+"1083","Elliott Bennett",2012,"9(15)",936,1.4,0.7,0.4,0,0.5,0.4,0.1,0,6.47,"Norwich","D(R),M(CLR)",NA,NA
+"1084","Michail Antonio",2015,"23(3)",2063,1.4,2.2,1,0,1.7,0.7,0.2,0,7.35,"West Ham","D(R),M(CLR),FW","west-ham-united",2130000
+"1085","Michail Antonio",2016,"13",1105,1.5,1.5,1.4,0.3,1.4,0.8,0.1,0,7.38,"West Ham","D(R),M(CLR),FW","west-ham-united",11050000
+"1086","Mauricio Isla",2014,"24(2)",2132,3.1,2.2,0.6,0.3,3,1.1,0.2,0,6.98,"Queens Park Rangers","D(R),M(CR)",NA,NA
+"1087","Ashley Young",2009,"37",3304,1.6,1.4,1.4,0,0.4,0.6,0.1,0,7.08,"Aston Villa","D(R),M(LR)",NA,NA
+"1088","Ashley Young",2010,"34",3054,0.9,1,1.3,0.1,0.3,0.5,0.1,0,7.11,"Aston Villa","D(R),M(LR)",NA,NA
+"1089","Ashley Young",2011,"19(6)",1573,1.4,0.7,0.7,0,0.4,0.2,0.2,0,7.24,"Manchester United","D(R),M(LR)","manchester-united",15300000
+"1090","Ashley Young",2012,"17(2)",1375,1.2,0.8,0.7,0.1,0.6,0.4,0.1,0,6.99,"Manchester United","D(R),M(LR)","manchester-united",22950000
+"1091","Ashley Young",2013,"13(7)",1030,0.7,0.5,0.9,0.1,0.8,0.2,0.1,0,6.55,"Manchester United","D(R),M(LR)","manchester-united",21250000
+"1092","Ashley Young",2014,"23(3)",2068,1.7,1.5,0.9,0.2,1,0.3,0.1,0,7.23,"Manchester United","D(R),M(LR)","manchester-united",11900000
+"1093","Ashley Young",2015,"11(7)",1063,1.1,1.4,0.8,0.1,1,0.6,0,0,6.6,"Manchester United","D(R),M(LR)","manchester-united",7650000
+"1094","Garath McCleary",2012,"15(16)",1572,0.9,0.6,0.4,0,0.2,0.3,0,0,6.47,"Reading","D(R),M(LR)",NA,NA
+"1095","Ahmed Elmohamady",2010,"26(10)",2455,1.4,1,0.9,0.1,1.4,0.2,0.1,0,6.85,"Sunderland","D(R),M(R)","sunderland-afc",1700000
+"1096","Ahmed Elmohamady",2011,"7(11)",773,1,0.6,0.6,0,0.5,0.1,0.1,0,6.5,"Sunderland","D(R),M(R)","sunderland-afc",3400000
+"1097","Ahmed Elmohamady",2013,"38",3330,1.8,1.8,0.9,0.1,1.8,0.5,0.1,0,7,"Hull","D(R),M(R)","hull-city",2130000
+"1098","Ahmed Elmohamady",2014,"38",3420,1.8,1.7,1,0.1,2.6,0.5,0.1,0,7.17,"Hull","D(R),M(R)","hull-city",2980000
+"1099","Antonio Valencia",2009,"29(5)",2615,1.6,0.9,1.2,0,0.3,0.2,0,0,7.47,"Manchester United","D(R),M(R)","manchester-united",9350000
+"1100","Antonio Valencia",2011,"22(5)",2120,2.4,1.1,1.7,0,0.6,0.6,0.1,0,7.51,"Manchester United","D(R),M(R)","manchester-united",16150000
+"1101","Antonio Valencia",2012,"24(6)",2212,1.9,0.8,1.2,0,0.6,0.4,0.1,0,7,"Manchester United","D(R),M(R)","manchester-united",23380000
+"1102","Antonio Valencia",2013,"20(9)",1941,1.7,1.3,1.3,0,0.8,0.6,0.2,0,6.94,"Manchester United","D(R),M(R)","manchester-united",20400000
+"1103","Antonio Valencia",2013,"20(9)",1941,1.7,1.3,1.3,0,0.8,0.6,0.2,0,6.94,"Manchester United","D(R),M(R)","manchester-united",20400000
+"1104","Antonio Valencia",2014,"29(3)",2584,3,1.8,1.2,0.2,1.6,0.6,0.2,0,7.23,"Manchester United","D(R),M(R)","manchester-united",13600000
+"1105","Antonio Valencia",2016,"12",1052,2.8,1.9,1.1,0.3,2.3,0.2,0.4,0,7.32,"Manchester United","D(R),M(R)","manchester-united",6800000
+"1106","Cedric Soares",2015,"23(1)",1971,3,2.3,0.8,0.1,2.8,0.6,0.5,0,7.27,"Southampton","D(R),M(R)","southampton-fc",7230000
+"1107","Cedric Soares",2016,"10",825,2.9,1.6,0.5,0,2.4,0.7,0.2,0,7.07,"Southampton","D(R),M(R)","southampton-fc",10200000
+"1108","Daryl Janmaat",2014,"37",3255,2.8,2.1,0.8,0.4,2.6,0.8,0.2,0,6.9,"Newcastle United","D(R),M(R)",NA,NA
+"1109","Daryl Janmaat",2015,"32",2755,2.5,1.8,0.9,0.2,2.6,0.9,0.3,0,6.85,"Newcastle United","D(R),M(R)",NA,NA
+"1110","Hector Bellerin",2014,"17(3)",1562,2,2.1,0.8,0.1,2.2,0.8,0.3,0,7.18,"Arsenal","D(R),M(R)","arsenal-fc",425000
+"1111","Hector Bellerin",2015,"36",3240,1.6,1.8,0.5,0,2.4,0.6,0.2,0,7.19,"Arsenal","D(R),M(R)","arsenal-fc",1280000
+"1112","Hector Bellerin",2016,"11",990,0.7,2.2,0.6,0.3,1.5,0.5,0.3,0,7.07,"Arsenal","D(R),M(R)","arsenal-fc",1.7e+07
+"1113","Julien Faubert",2009,"32(1)",2820,1.5,1.7,1,0.2,3.6,0.5,0.3,0,6.76,"West Ham","D(R),M(R)","west-ham-united",5950000
+"1114","Nathaniel Clyne",2012,"34",3021,2.8,2.1,0.6,0.2,3.5,0.5,0.3,1,6.91,"Southampton","D(R),M(R)","southampton-fc",1700000
+"1115","Nathaniel Clyne",2013,"20(5)",1862,2.2,1.1,0.7,0.4,2.8,0.4,0.2,0,6.94,"Southampton","D(R),M(R)","southampton-fc",4250000
+"1116","Nathaniel Clyne",2013,"20(5)",1862,2.2,1.1,0.7,0.4,2.8,0.4,0.2,0,6.94,"Southampton","D(R),M(R)","southampton-fc",4250000
+"1117","Nathaniel Clyne",2014,"35",3147,3.3,1.8,0.6,0.1,2.2,0.9,0.2,0,7.04,"Southampton","D(R),M(R)","southampton-fc",5950000
+"1118","Nathaniel Clyne",2015,"33",2970,2.5,1.6,0.6,0.3,1.7,0.5,0.2,0,6.79,"Liverpool","D(R),M(R)","liverpool-fc",10200000
+"1119","Rafael",2012,"27(1)",2317,3.1,2.1,1.3,0.1,4.5,0.8,0.4,0,7.36,"Manchester United","D(R),M(R)","manchester-united",7650000
+"1120","Rafael",2013,"18(1)",1421,2.3,1.8,1,0.2,4,0.8,0.3,0,7.05,"Manchester United","D(R),M(R)","manchester-united",12330000
+"1121","Seamus Coleman",2010,"25(9)",2259,1.6,0.4,0.8,0,0.7,0.4,0.2,0,6.74,"Everton","D(R),M(R)","everton-fc",850000
+"1122","Seamus Coleman",2011,"14(4)",1133,1,1.1,1.1,0,0.1,0.3,0.1,0,6.47,"Everton","D(R),M(R)","everton-fc",5530000
+"1123","Seamus Coleman",2012,"24(2)",2163,2.4,1.9,0.7,0.1,2.3,0.2,0.3,0,7.12,"Everton","D(R),M(R)","everton-fc",4250000
+"1124","Seamus Coleman",2013,"36",3229,2,1.3,0.7,0.4,2.4,0.5,0.3,1,7.32,"Everton","D(R),M(R)","everton-fc",3400000
+"1125","Seamus Coleman",2014,"34(1)",3065,1.5,1.1,0.6,0.2,2.6,0.3,0.3,1,6.92,"Everton","D(R),M(R)","everton-fc",8500000
+"1126","Seamus Coleman",2015,"27(1)",2386,2.1,1.3,0.7,0.2,2.5,0.8,0.4,1,6.9,"Everton","D(R),M(R)","everton-fc",15300000
+"1127","Seamus Coleman",2016,"11",967,3,1.4,0.7,0.3,2.3,0.7,0.8,0,7.17,"Everton","D(R),M(R)","everton-fc",14450000

@@ -1,0 +1,57 @@
+---
+title: "divide_player"
+author: "윤기태"
+date: "2016년 12월 21일"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 크롤링된 데이터 포지션 분류
+
+```{r}
+tmpenv <- new.env()
+load("EPL_data.RData", envir=tmpenv)
+defensive_stat <- tmpenv$defensive_stat
+offensive_stat <- tmpenv$offensive_stat
+passing_stat <- tmpenv$passing_stat
+
+defensive_stat_adj <- defensive_stat[order(defensive_stat$Meta) , ]
+rownames(defensive_stat_adj) <- 1:nrow(defensive_stat_adj)
+defensive_stat_adj2 = defensive_stat_adj[277:1127, 1:17]  
+# 1~276 공격수 / 277~1127 수비수 / 1128~1214 미드필/ 1215~1426 공격수 / 1427~1571 골키퍼 / 1572~2207 미드필
+defensive_data <- data.frame(stringsAsFactors=FALSE)
+defensive_data <- rbind(defensive_data, defensive_stat_adj2)
+write.csv(defensive_data,"defensivedata.csv")
+
+#########################################
+offensive_stat_adj <- offensive_stat[order(offensive_stat$Meta) , ]
+rownames(offensive_stat_adj) <- 1:nrow(offensive_stat_adj)
+offensive_stat_adj2 = offensive_stat_adj[1:313, 1:18]  
+offensive_stat_adj2_2 = offensive_stat_adj[1305:1535, 1:18]  
+# 1~313 공격수 / 314~1204 수비수 / 1205~1305 미드필/ 1305~1535 공격수 / 1536~1699 골키퍼 / 1700~2377 미드필
+offensive_data <- data.frame(stringsAsFactors=FALSE)
+offensive_data <- rbind(offensive_data, offensive_stat_adj2)
+offensive_data <- rbind(offensive_data, offensive_stat_adj2_2)
+write.csv(offensive_data,"offensivedata.csv")
+
+#########################################
+passing_stat_adj <- passing_stat[order(passing_stat$Meta) , ]
+rownames(passing_stat_adj) <- 1:nrow(passing_stat_adj)
+passing_stat_adj2 = passing_stat_adj[1205:1305, 1:16]  
+passing_stat_adj2_2 = passing_stat_adj[1700:2377, 1:16]  
+# 1~313 공격수 / 314~1204 수비수 / 1205~1305 미드필/ 1305~1535 공격수 / 1536~1699 골키퍼 / 1700~2377 미드필
+passing_data <- data.frame(stringsAsFactors=FALSE)
+passing_data <- rbind(passing_data, passing_stat_adj2)
+passing_data <- rbind(passing_data, passing_stat_adj2_2)
+write.csv(passing_data,"passingdata.csv")
+
+#########################################
+GK_stat = passing_stat_adj2 = passing_stat_adj[1536:1699, 1:16]  
+GK_data <- data.frame(stringsAsFactors=FALSE)
+GK_data <- rbind(GK_data, GK_stat)
+write.csv(GK_data,"GKdata.csv")
+```
+
